@@ -1,0 +1,2458 @@
+{
+  "cases": [
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "full",
+      "id": "independent:f01__fem:full",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f01__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "drop_f02",
+      "id": "independent:f01__fem:drop_f02",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f01__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "drop_f03",
+      "id": "independent:f01__fem:drop_f03",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f01__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "drop_f04",
+      "id": "independent:f01__fem:drop_f04",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f01__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "full",
+      "id": "independent:f01__nonfem:full",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f01__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f02",
+      "id": "independent:f01__nonfem:drop_f02",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f01__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f03",
+      "id": "independent:f01__nonfem:drop_f03",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f01__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f04",
+      "id": "independent:f01__nonfem:drop_f04",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f01__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": false,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": false,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "full",
+      "id": "independent:f01__static:full",
+      "positive": false,
+      "regime": "independent",
+      "sequence": "f01__static"
+    },
+    {
+      "answers": {
+        "basc_c": false,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": false,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "drop_f02",
+      "id": "independent:f01__static:drop_f02",
+      "positive": false,
+      "regime": "independent",
+      "sequence": "f01__static"
+    },
+    {
+      "answers": {
+        "basc_c": false,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": false,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "drop_f03",
+      "id": "independent:f01__static:drop_f03",
+      "positive": false,
+      "regime": "independent",
+      "sequence": "f01__static"
+    },
+    {
+      "answers": {
+        "basc_c": false,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": false,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "drop_f04",
+      "id": "independent:f01__static:drop_f04",
+      "positive": false,
+      "regime": "independent",
+      "sequence": "f01__static"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "full",
+      "id": "independent:f02__fem:full",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f02__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f01",
+      "id": "independent:f02__fem:drop_f01",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f02__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f03",
+      "id": "independent:f02__fem:drop_f03",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f02__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f04",
+      "id": "independent:f02__fem:drop_f04",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f02__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "full",
+      "id": "independent:f02__nonfem:full",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f02__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f01",
+      "id": "independent:f02__nonfem:drop_f01",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f02__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f03",
+      "id": "independent:f02__nonfem:drop_f03",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f02__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f04",
+      "id": "independent:f02__nonfem:drop_f04",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f02__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": false,
+        "global_modal": false,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": false,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": false
+      },
+      "fold": "full",
+      "id": "independent:f02__static:full",
+      "positive": false,
+      "regime": "independent",
+      "sequence": "f02__static"
+    },
+    {
+      "answers": {
+        "basc_c": false,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": false,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": false
+      },
+      "fold": "drop_f01",
+      "id": "independent:f02__static:drop_f01",
+      "positive": false,
+      "regime": "independent",
+      "sequence": "f02__static"
+    },
+    {
+      "answers": {
+        "basc_c": false,
+        "global_modal": false,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": false,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": false
+      },
+      "fold": "drop_f03",
+      "id": "independent:f02__static:drop_f03",
+      "positive": false,
+      "regime": "independent",
+      "sequence": "f02__static"
+    },
+    {
+      "answers": {
+        "basc_c": false,
+        "global_modal": false,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": false,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f04",
+      "id": "independent:f02__static:drop_f04",
+      "positive": false,
+      "regime": "independent",
+      "sequence": "f02__static"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "full",
+      "id": "independent:f03__fem:full",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f03__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f01",
+      "id": "independent:f03__fem:drop_f01",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f03__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f02",
+      "id": "independent:f03__fem:drop_f02",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f03__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f04",
+      "id": "independent:f03__fem:drop_f04",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f03__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "full",
+      "id": "independent:f03__nonfem:full",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f03__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f01",
+      "id": "independent:f03__nonfem:drop_f01",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f03__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f02",
+      "id": "independent:f03__nonfem:drop_f02",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f03__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f04",
+      "id": "independent:f03__nonfem:drop_f04",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f03__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": false,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": true,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "full",
+      "id": "independent:f03__static:full",
+      "positive": false,
+      "regime": "independent",
+      "sequence": "f03__static"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": false,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": true,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "drop_f01",
+      "id": "independent:f03__static:drop_f01",
+      "positive": false,
+      "regime": "independent",
+      "sequence": "f03__static"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": false,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": false
+      },
+      "fold": "drop_f02",
+      "id": "independent:f03__static:drop_f02",
+      "positive": false,
+      "regime": "independent",
+      "sequence": "f03__static"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": false,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": true,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "drop_f04",
+      "id": "independent:f03__static:drop_f04",
+      "positive": false,
+      "regime": "independent",
+      "sequence": "f03__static"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": false,
+        "rdsc": true
+      },
+      "fold": "full",
+      "id": "independent:f04__fem:full",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f04__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": false,
+        "rdsc": true
+      },
+      "fold": "drop_f01",
+      "id": "independent:f04__fem:drop_f01",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f04__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": false,
+        "rdsc": true
+      },
+      "fold": "drop_f02",
+      "id": "independent:f04__fem:drop_f02",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f04__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": false,
+        "rdsc": true
+      },
+      "fold": "drop_f03",
+      "id": "independent:f04__fem:drop_f03",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f04__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "full",
+      "id": "independent:f04__nonfem:full",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f04__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f01",
+      "id": "independent:f04__nonfem:drop_f01",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f04__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f02",
+      "id": "independent:f04__nonfem:drop_f02",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f04__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f03",
+      "id": "independent:f04__nonfem:drop_f03",
+      "positive": true,
+      "regime": "independent",
+      "sequence": "f04__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": false,
+        "global_modal": false,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": false,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": true
+      },
+      "fold": "full",
+      "id": "independent:f04__static:full",
+      "positive": false,
+      "regime": "independent",
+      "sequence": "f04__static"
+    },
+    {
+      "answers": {
+        "basc_c": false,
+        "global_modal": false,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": false,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": true
+      },
+      "fold": "drop_f01",
+      "id": "independent:f04__static:drop_f01",
+      "positive": false,
+      "regime": "independent",
+      "sequence": "f04__static"
+    },
+    {
+      "answers": {
+        "basc_c": false,
+        "global_modal": false,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": false,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": true
+      },
+      "fold": "drop_f02",
+      "id": "independent:f04__static:drop_f02",
+      "positive": false,
+      "regime": "independent",
+      "sequence": "f04__static"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": false,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": true
+      },
+      "fold": "drop_f03",
+      "id": "independent:f04__static:drop_f03",
+      "positive": false,
+      "regime": "independent",
+      "sequence": "f04__static"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": true,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "full",
+      "id": "inherit_global:f01__fem:full",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f01__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "drop_f02",
+      "id": "inherit_global:f01__fem:drop_f02",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f01__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": true,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "drop_f03",
+      "id": "inherit_global:f01__fem:drop_f03",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f01__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": true,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "drop_f04",
+      "id": "inherit_global:f01__fem:drop_f04",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f01__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "full",
+      "id": "inherit_global:f01__nonfem:full",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f01__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f02",
+      "id": "inherit_global:f01__nonfem:drop_f02",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f01__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f03",
+      "id": "inherit_global:f01__nonfem:drop_f03",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f01__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f04",
+      "id": "inherit_global:f01__nonfem:drop_f04",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f01__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": true,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "full",
+      "id": "inherit_global:f01__static:full",
+      "positive": false,
+      "regime": "inherit_global",
+      "sequence": "f01__static"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "drop_f02",
+      "id": "inherit_global:f01__static:drop_f02",
+      "positive": false,
+      "regime": "inherit_global",
+      "sequence": "f01__static"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": true,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "drop_f03",
+      "id": "inherit_global:f01__static:drop_f03",
+      "positive": false,
+      "regime": "inherit_global",
+      "sequence": "f01__static"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": true,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "drop_f04",
+      "id": "inherit_global:f01__static:drop_f04",
+      "positive": false,
+      "regime": "inherit_global",
+      "sequence": "f01__static"
+    },
+    {
+      "answers": {
+        "basc_c": false,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": false,
+        "raw_median": true,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "full",
+      "id": "inherit_global:f02__fem:full",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f02__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "drop_f01",
+      "id": "inherit_global:f02__fem:drop_f01",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f02__fem"
+    },
+    {
+      "answers": {
+        "basc_c": false,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": false,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": false
+      },
+      "fold": "drop_f03",
+      "id": "inherit_global:f02__fem:drop_f03",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f02__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": false,
+        "rdsc": true
+      },
+      "fold": "drop_f04",
+      "id": "inherit_global:f02__fem:drop_f04",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f02__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "full",
+      "id": "inherit_global:f02__nonfem:full",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f02__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f01",
+      "id": "inherit_global:f02__nonfem:drop_f01",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f02__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f03",
+      "id": "inherit_global:f02__nonfem:drop_f03",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f02__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f04",
+      "id": "inherit_global:f02__nonfem:drop_f04",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f02__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": false,
+        "global_modal": false,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": false,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": false
+      },
+      "fold": "full",
+      "id": "inherit_global:f02__static:full",
+      "positive": false,
+      "regime": "inherit_global",
+      "sequence": "f02__static"
+    },
+    {
+      "answers": {
+        "basc_c": false,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": false,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": false
+      },
+      "fold": "drop_f01",
+      "id": "inherit_global:f02__static:drop_f01",
+      "positive": false,
+      "regime": "inherit_global",
+      "sequence": "f02__static"
+    },
+    {
+      "answers": {
+        "basc_c": false,
+        "global_modal": false,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": false,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": false
+      },
+      "fold": "drop_f03",
+      "id": "inherit_global:f02__static:drop_f03",
+      "positive": false,
+      "regime": "inherit_global",
+      "sequence": "f02__static"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": false,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f04",
+      "id": "inherit_global:f02__static:drop_f04",
+      "positive": false,
+      "regime": "inherit_global",
+      "sequence": "f02__static"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": false,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "full",
+      "id": "inherit_global:f03__fem:full",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f03__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": false,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f01",
+      "id": "inherit_global:f03__fem:drop_f01",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f03__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": false,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f02",
+      "id": "inherit_global:f03__fem:drop_f02",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f03__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": false,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f04",
+      "id": "inherit_global:f03__fem:drop_f04",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f03__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "full",
+      "id": "inherit_global:f03__nonfem:full",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f03__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f01",
+      "id": "inherit_global:f03__nonfem:drop_f01",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f03__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f02",
+      "id": "inherit_global:f03__nonfem:drop_f02",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f03__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f04",
+      "id": "inherit_global:f03__nonfem:drop_f04",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f03__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": false,
+        "global_modal": false,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": false,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "full",
+      "id": "inherit_global:f03__static:full",
+      "positive": false,
+      "regime": "inherit_global",
+      "sequence": "f03__static"
+    },
+    {
+      "answers": {
+        "basc_c": false,
+        "global_modal": false,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": false,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "drop_f01",
+      "id": "inherit_global:f03__static:drop_f01",
+      "positive": false,
+      "regime": "inherit_global",
+      "sequence": "f03__static"
+    },
+    {
+      "answers": {
+        "basc_c": false,
+        "global_modal": false,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": false,
+        "raw_median": false,
+        "raw_q95": true,
+        "rdsc": false
+      },
+      "fold": "drop_f02",
+      "id": "inherit_global:f03__static:drop_f02",
+      "positive": false,
+      "regime": "inherit_global",
+      "sequence": "f03__static"
+    },
+    {
+      "answers": {
+        "basc_c": false,
+        "global_modal": false,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": false,
+        "no_r": false,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": false
+      },
+      "fold": "drop_f04",
+      "id": "inherit_global:f03__static:drop_f04",
+      "positive": false,
+      "regime": "inherit_global",
+      "sequence": "f03__static"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": true
+      },
+      "fold": "full",
+      "id": "inherit_global:f04__fem:full",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f04__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": true
+      },
+      "fold": "drop_f01",
+      "id": "inherit_global:f04__fem:drop_f01",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f04__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": true
+      },
+      "fold": "drop_f02",
+      "id": "inherit_global:f04__fem:drop_f02",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f04__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": true
+      },
+      "fold": "drop_f03",
+      "id": "inherit_global:f04__fem:drop_f03",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f04__fem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "full",
+      "id": "inherit_global:f04__nonfem:full",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f04__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f01",
+      "id": "inherit_global:f04__nonfem:drop_f01",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f04__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f02",
+      "id": "inherit_global:f04__nonfem:drop_f02",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f04__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": true,
+        "log_lite_graphd_zd": true,
+        "log_lite_graphf_zd": false,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": true,
+        "raw_q95": true,
+        "rdsc": true
+      },
+      "fold": "drop_f03",
+      "id": "inherit_global:f04__nonfem:drop_f03",
+      "positive": true,
+      "regime": "inherit_global",
+      "sequence": "f04__nonfem"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": false,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": true
+      },
+      "fold": "full",
+      "id": "inherit_global:f04__static:full",
+      "positive": false,
+      "regime": "inherit_global",
+      "sequence": "f04__static"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": false,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": true
+      },
+      "fold": "drop_f01",
+      "id": "inherit_global:f04__static:drop_f01",
+      "positive": false,
+      "regime": "inherit_global",
+      "sequence": "f04__static"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": false,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": true
+      },
+      "fold": "drop_f02",
+      "id": "inherit_global:f04__static:drop_f02",
+      "positive": false,
+      "regime": "inherit_global",
+      "sequence": "f04__static"
+    },
+    {
+      "answers": {
+        "basc_c": true,
+        "global_modal": false,
+        "log_lite_graphd_zd": false,
+        "log_lite_graphf_zd": true,
+        "log_lite_union_zd": true,
+        "no_r": true,
+        "raw_median": false,
+        "raw_q95": false,
+        "rdsc": true
+      },
+      "fold": "drop_f03",
+      "id": "inherit_global:f04__static:drop_f03",
+      "positive": false,
+      "regime": "inherit_global",
+      "sequence": "f04__static"
+    }
+  ],
+  "metrics": {
+    "independent:drop_f01:basc_c": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 2,
+      "TP": 6,
+      "requested": 9
+    },
+    "independent:drop_f01:global_modal": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 2,
+      "TP": 6,
+      "requested": 9
+    },
+    "independent:drop_f01:log_lite_graphd_zd": {
+      "A": 0,
+      "FN": 1,
+      "FP": 1,
+      "TN": 2,
+      "TP": 5,
+      "requested": 9
+    },
+    "independent:drop_f01:log_lite_graphf_zd": {
+      "A": 0,
+      "FN": 4,
+      "FP": 1,
+      "TN": 2,
+      "TP": 2,
+      "requested": 9
+    },
+    "independent:drop_f01:log_lite_union_zd": {
+      "A": 0,
+      "FN": 0,
+      "FP": 2,
+      "TN": 1,
+      "TP": 6,
+      "requested": 9
+    },
+    "independent:drop_f01:no_r": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 2,
+      "TP": 6,
+      "requested": 9
+    },
+    "independent:drop_f01:raw_median": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 2,
+      "TP": 6,
+      "requested": 9
+    },
+    "independent:drop_f01:raw_q95": {
+      "A": 0,
+      "FN": 1,
+      "FP": 1,
+      "TN": 2,
+      "TP": 5,
+      "requested": 9
+    },
+    "independent:drop_f01:rdsc": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 2,
+      "TP": 6,
+      "requested": 9
+    },
+    "independent:drop_f02:basc_c": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 2,
+      "TP": 6,
+      "requested": 9
+    },
+    "independent:drop_f02:global_modal": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 2,
+      "TP": 6,
+      "requested": 9
+    },
+    "independent:drop_f02:log_lite_graphd_zd": {
+      "A": 0,
+      "FN": 2,
+      "FP": 1,
+      "TN": 2,
+      "TP": 4,
+      "requested": 9
+    },
+    "independent:drop_f02:log_lite_graphf_zd": {
+      "A": 0,
+      "FN": 4,
+      "FP": 1,
+      "TN": 2,
+      "TP": 2,
+      "requested": 9
+    },
+    "independent:drop_f02:log_lite_union_zd": {
+      "A": 0,
+      "FN": 1,
+      "FP": 2,
+      "TN": 1,
+      "TP": 5,
+      "requested": 9
+    },
+    "independent:drop_f02:no_r": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 2,
+      "TP": 6,
+      "requested": 9
+    },
+    "independent:drop_f02:raw_median": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 2,
+      "TP": 6,
+      "requested": 9
+    },
+    "independent:drop_f02:raw_q95": {
+      "A": 0,
+      "FN": 2,
+      "FP": 1,
+      "TN": 2,
+      "TP": 4,
+      "requested": 9
+    },
+    "independent:drop_f02:rdsc": {
+      "A": 0,
+      "FN": 1,
+      "FP": 1,
+      "TN": 2,
+      "TP": 5,
+      "requested": 9
+    },
+    "independent:drop_f03:basc_c": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 2,
+      "TP": 6,
+      "requested": 9
+    },
+    "independent:drop_f03:global_modal": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 2,
+      "TP": 6,
+      "requested": 9
+    },
+    "independent:drop_f03:log_lite_graphd_zd": {
+      "A": 0,
+      "FN": 2,
+      "FP": 1,
+      "TN": 2,
+      "TP": 4,
+      "requested": 9
+    },
+    "independent:drop_f03:log_lite_graphf_zd": {
+      "A": 0,
+      "FN": 4,
+      "FP": 1,
+      "TN": 2,
+      "TP": 2,
+      "requested": 9
+    },
+    "independent:drop_f03:log_lite_union_zd": {
+      "A": 0,
+      "FN": 1,
+      "FP": 2,
+      "TN": 1,
+      "TP": 5,
+      "requested": 9
+    },
+    "independent:drop_f03:no_r": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 2,
+      "TP": 6,
+      "requested": 9
+    },
+    "independent:drop_f03:raw_median": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 2,
+      "TP": 6,
+      "requested": 9
+    },
+    "independent:drop_f03:raw_q95": {
+      "A": 0,
+      "FN": 2,
+      "FP": 1,
+      "TN": 2,
+      "TP": 4,
+      "requested": 9
+    },
+    "independent:drop_f03:rdsc": {
+      "A": 0,
+      "FN": 1,
+      "FP": 1,
+      "TN": 2,
+      "TP": 5,
+      "requested": 9
+    },
+    "independent:drop_f04:basc_c": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 2,
+      "TP": 6,
+      "requested": 9
+    },
+    "independent:drop_f04:global_modal": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 2,
+      "TP": 6,
+      "requested": 9
+    },
+    "independent:drop_f04:log_lite_graphd_zd": {
+      "A": 0,
+      "FN": 1,
+      "FP": 1,
+      "TN": 2,
+      "TP": 5,
+      "requested": 9
+    },
+    "independent:drop_f04:log_lite_graphf_zd": {
+      "A": 0,
+      "FN": 3,
+      "FP": 1,
+      "TN": 2,
+      "TP": 3,
+      "requested": 9
+    },
+    "independent:drop_f04:log_lite_union_zd": {
+      "A": 0,
+      "FN": 1,
+      "FP": 1,
+      "TN": 2,
+      "TP": 5,
+      "requested": 9
+    },
+    "independent:drop_f04:no_r": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 2,
+      "TP": 6,
+      "requested": 9
+    },
+    "independent:drop_f04:raw_median": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 2,
+      "TP": 6,
+      "requested": 9
+    },
+    "independent:drop_f04:raw_q95": {
+      "A": 0,
+      "FN": 1,
+      "FP": 1,
+      "TN": 2,
+      "TP": 5,
+      "requested": 9
+    },
+    "independent:drop_f04:rdsc": {
+      "A": 0,
+      "FN": 1,
+      "FP": 1,
+      "TN": 2,
+      "TP": 5,
+      "requested": 9
+    },
+    "independent:full:basc_c": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 3,
+      "TP": 8,
+      "requested": 12
+    },
+    "independent:full:global_modal": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 3,
+      "TP": 8,
+      "requested": 12
+    },
+    "independent:full:log_lite_graphd_zd": {
+      "A": 0,
+      "FN": 2,
+      "FP": 1,
+      "TN": 3,
+      "TP": 6,
+      "requested": 12
+    },
+    "independent:full:log_lite_graphf_zd": {
+      "A": 0,
+      "FN": 6,
+      "FP": 1,
+      "TN": 3,
+      "TP": 2,
+      "requested": 12
+    },
+    "independent:full:log_lite_union_zd": {
+      "A": 0,
+      "FN": 1,
+      "FP": 2,
+      "TN": 2,
+      "TP": 7,
+      "requested": 12
+    },
+    "independent:full:no_r": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 3,
+      "TP": 8,
+      "requested": 12
+    },
+    "independent:full:raw_median": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 3,
+      "TP": 8,
+      "requested": 12
+    },
+    "independent:full:raw_q95": {
+      "A": 0,
+      "FN": 2,
+      "FP": 1,
+      "TN": 3,
+      "TP": 6,
+      "requested": 12
+    },
+    "independent:full:rdsc": {
+      "A": 0,
+      "FN": 1,
+      "FP": 1,
+      "TN": 3,
+      "TP": 7,
+      "requested": 12
+    },
+    "inherit_global:drop_f01:basc_c": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 2,
+      "TP": 6,
+      "requested": 9
+    },
+    "inherit_global:drop_f01:global_modal": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 2,
+      "TP": 6,
+      "requested": 9
+    },
+    "inherit_global:drop_f01:log_lite_graphd_zd": {
+      "A": 0,
+      "FN": 2,
+      "FP": 1,
+      "TN": 2,
+      "TP": 4,
+      "requested": 9
+    },
+    "inherit_global:drop_f01:log_lite_graphf_zd": {
+      "A": 0,
+      "FN": 5,
+      "FP": 1,
+      "TN": 2,
+      "TP": 1,
+      "requested": 9
+    },
+    "inherit_global:drop_f01:log_lite_union_zd": {
+      "A": 0,
+      "FN": 1,
+      "FP": 2,
+      "TN": 1,
+      "TP": 5,
+      "requested": 9
+    },
+    "inherit_global:drop_f01:no_r": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 2,
+      "TP": 6,
+      "requested": 9
+    },
+    "inherit_global:drop_f01:raw_median": {
+      "A": 0,
+      "FN": 2,
+      "FP": 1,
+      "TN": 2,
+      "TP": 4,
+      "requested": 9
+    },
+    "inherit_global:drop_f01:raw_q95": {
+      "A": 0,
+      "FN": 2,
+      "FP": 1,
+      "TN": 2,
+      "TP": 4,
+      "requested": 9
+    },
+    "inherit_global:drop_f01:rdsc": {
+      "A": 0,
+      "FN": 1,
+      "FP": 1,
+      "TN": 2,
+      "TP": 5,
+      "requested": 9
+    },
+    "inherit_global:drop_f02:basc_c": {
+      "A": 0,
+      "FN": 0,
+      "FP": 2,
+      "TN": 1,
+      "TP": 6,
+      "requested": 9
+    },
+    "inherit_global:drop_f02:global_modal": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 2,
+      "TP": 6,
+      "requested": 9
+    },
+    "inherit_global:drop_f02:log_lite_graphd_zd": {
+      "A": 0,
+      "FN": 2,
+      "FP": 1,
+      "TN": 2,
+      "TP": 4,
+      "requested": 9
+    },
+    "inherit_global:drop_f02:log_lite_graphf_zd": {
+      "A": 0,
+      "FN": 4,
+      "FP": 1,
+      "TN": 2,
+      "TP": 2,
+      "requested": 9
+    },
+    "inherit_global:drop_f02:log_lite_union_zd": {
+      "A": 0,
+      "FN": 1,
+      "FP": 2,
+      "TN": 1,
+      "TP": 5,
+      "requested": 9
+    },
+    "inherit_global:drop_f02:no_r": {
+      "A": 0,
+      "FN": 0,
+      "FP": 2,
+      "TN": 1,
+      "TP": 6,
+      "requested": 9
+    },
+    "inherit_global:drop_f02:raw_median": {
+      "A": 0,
+      "FN": 2,
+      "FP": 1,
+      "TN": 2,
+      "TP": 4,
+      "requested": 9
+    },
+    "inherit_global:drop_f02:raw_q95": {
+      "A": 0,
+      "FN": 2,
+      "FP": 1,
+      "TN": 2,
+      "TP": 4,
+      "requested": 9
+    },
+    "inherit_global:drop_f02:rdsc": {
+      "A": 0,
+      "FN": 1,
+      "FP": 1,
+      "TN": 2,
+      "TP": 5,
+      "requested": 9
+    },
+    "inherit_global:drop_f03:basc_c": {
+      "A": 0,
+      "FN": 1,
+      "FP": 2,
+      "TN": 1,
+      "TP": 5,
+      "requested": 9
+    },
+    "inherit_global:drop_f03:global_modal": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 2,
+      "TP": 6,
+      "requested": 9
+    },
+    "inherit_global:drop_f03:log_lite_graphd_zd": {
+      "A": 0,
+      "FN": 2,
+      "FP": 1,
+      "TN": 2,
+      "TP": 4,
+      "requested": 9
+    },
+    "inherit_global:drop_f03:log_lite_graphf_zd": {
+      "A": 0,
+      "FN": 5,
+      "FP": 1,
+      "TN": 2,
+      "TP": 1,
+      "requested": 9
+    },
+    "inherit_global:drop_f03:log_lite_union_zd": {
+      "A": 0,
+      "FN": 1,
+      "FP": 2,
+      "TN": 1,
+      "TP": 5,
+      "requested": 9
+    },
+    "inherit_global:drop_f03:no_r": {
+      "A": 0,
+      "FN": 1,
+      "FP": 2,
+      "TN": 1,
+      "TP": 5,
+      "requested": 9
+    },
+    "inherit_global:drop_f03:raw_median": {
+      "A": 0,
+      "FN": 2,
+      "FP": 1,
+      "TN": 2,
+      "TP": 4,
+      "requested": 9
+    },
+    "inherit_global:drop_f03:raw_q95": {
+      "A": 0,
+      "FN": 2,
+      "FP": 1,
+      "TN": 2,
+      "TP": 4,
+      "requested": 9
+    },
+    "inherit_global:drop_f03:rdsc": {
+      "A": 0,
+      "FN": 2,
+      "FP": 1,
+      "TN": 2,
+      "TP": 4,
+      "requested": 9
+    },
+    "inherit_global:drop_f04:basc_c": {
+      "A": 0,
+      "FN": 0,
+      "FP": 2,
+      "TN": 1,
+      "TP": 6,
+      "requested": 9
+    },
+    "inherit_global:drop_f04:global_modal": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 2,
+      "TP": 6,
+      "requested": 9
+    },
+    "inherit_global:drop_f04:log_lite_graphd_zd": {
+      "A": 0,
+      "FN": 2,
+      "FP": 1,
+      "TN": 2,
+      "TP": 4,
+      "requested": 9
+    },
+    "inherit_global:drop_f04:log_lite_graphf_zd": {
+      "A": 0,
+      "FN": 3,
+      "FP": 1,
+      "TN": 2,
+      "TP": 3,
+      "requested": 9
+    },
+    "inherit_global:drop_f04:log_lite_union_zd": {
+      "A": 0,
+      "FN": 1,
+      "FP": 1,
+      "TN": 2,
+      "TP": 5,
+      "requested": 9
+    },
+    "inherit_global:drop_f04:no_r": {
+      "A": 0,
+      "FN": 0,
+      "FP": 2,
+      "TN": 1,
+      "TP": 6,
+      "requested": 9
+    },
+    "inherit_global:drop_f04:raw_median": {
+      "A": 0,
+      "FN": 2,
+      "FP": 1,
+      "TN": 2,
+      "TP": 4,
+      "requested": 9
+    },
+    "inherit_global:drop_f04:raw_q95": {
+      "A": 0,
+      "FN": 2,
+      "FP": 1,
+      "TN": 2,
+      "TP": 4,
+      "requested": 9
+    },
+    "inherit_global:drop_f04:rdsc": {
+      "A": 0,
+      "FN": 1,
+      "FP": 1,
+      "TN": 2,
+      "TP": 5,
+      "requested": 9
+    },
+    "inherit_global:full:basc_c": {
+      "A": 0,
+      "FN": 1,
+      "FP": 2,
+      "TN": 2,
+      "TP": 7,
+      "requested": 12
+    },
+    "inherit_global:full:global_modal": {
+      "A": 0,
+      "FN": 0,
+      "FP": 1,
+      "TN": 3,
+      "TP": 8,
+      "requested": 12
+    },
+    "inherit_global:full:log_lite_graphd_zd": {
+      "A": 0,
+      "FN": 3,
+      "FP": 1,
+      "TN": 3,
+      "TP": 5,
+      "requested": 12
+    },
+    "inherit_global:full:log_lite_graphf_zd": {
+      "A": 0,
+      "FN": 7,
+      "FP": 1,
+      "TN": 3,
+      "TP": 1,
+      "requested": 12
+    },
+    "inherit_global:full:log_lite_union_zd": {
+      "A": 0,
+      "FN": 2,
+      "FP": 2,
+      "TN": 2,
+      "TP": 6,
+      "requested": 12
+    },
+    "inherit_global:full:no_r": {
+      "A": 0,
+      "FN": 1,
+      "FP": 2,
+      "TN": 2,
+      "TP": 7,
+      "requested": 12
+    },
+    "inherit_global:full:raw_median": {
+      "A": 0,
+      "FN": 3,
+      "FP": 1,
+      "TN": 3,
+      "TP": 5,
+      "requested": 12
+    },
+    "inherit_global:full:raw_q95": {
+      "A": 0,
+      "FN": 3,
+      "FP": 1,
+      "TN": 3,
+      "TP": 5,
+      "requested": 12
+    },
+    "inherit_global:full:rdsc": {
+      "A": 0,
+      "FN": 2,
+      "FP": 1,
+      "TN": 3,
+      "TP": 6,
+      "requested": 12
+    }
+  },
+  "requested_calibration_definitions": 96,
+  "requested_windows": 216,
+  "scope": "Exposed matched comparison of separately named zero-distance extension of author-lightweight pre-display features; not full M3C2-LOG uncertainty detector",
+  "unique_acquisitions": 12
+}

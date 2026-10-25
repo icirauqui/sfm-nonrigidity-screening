@@ -1,0 +1,14 @@
+{
+  "license": "CC-BY-4.0",
+  "scores": {
+    "coherence_excess": 0.6785357669947906,
+    "coherent_affine_q95": 0.012286293378359103,
+    "coherent_minus_shuffle": -0.005820774776315535,
+    "coherent_squared_minus_shuffle_squared": -0.00017691291217892166,
+    "raw_median": 0.0005821643328506192,
+    "raw_q95": 0.029823286907831575,
+    "rdsc": 0.00833668950100791
+  },
+  "source_dataset_doi": "10.57967/hf/10850",
+  "window_index": 0
+}

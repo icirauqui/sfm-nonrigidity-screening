@@ -1,0 +1,74 @@
+{
+  "algorithm_thresholds_unchanged": true,
+  "cli_commands_exercised": 6,
+  "compact_reference_files_verified": 45,
+  "exact_complete_figure_files": 20,
+  "exact_production_panels": 32,
+  "linux_unit_tests": 15,
+  "model_replay": {
+    "comparison_mode": "decisions",
+    "global_core_calibration_records_checked": 480,
+    "global_decisions_checked": 160,
+    "inference_input_allowlist": true,
+    "local_decisions": 96,
+    "maximum_absolute_error": 4.674566005391512e-05,
+    "numerical_difference_count": 92,
+    "rechecked_saved_inference": true,
+    "records": 248,
+    "requests": 44,
+    "scope": "full primary model-to-score and decision replay",
+    "score_checks": 1451,
+    "seconds": 0.015427334001287818,
+    "status": "DECISIONS_MATCH_NUMERICAL_REFERENCE_MISMATCH",
+    "strict_numerical_match": false
+  },
+  "numerical_definitions": 70,
+  "numerical_modules": 23,
+  "original_vs_migrated_same_backend": {
+    "regimes": [
+      {
+        "migrated_reasons": {},
+        "original_reasons": {},
+        "regime": "independent",
+        "score_errors": {
+          "edge": 0.0,
+          "japd": 0.0,
+          "raw_median": 0.0,
+          "raw_q95": 0.0,
+          "rdsc": 0.0,
+          "transfer": 0.0
+        }
+      },
+      {
+        "migrated_reasons": {},
+        "original_reasons": {},
+        "regime": "inherit_global",
+        "score_errors": {
+          "edge": 0.0,
+          "japd": 0.0,
+          "raw_median": 0.0,
+          "raw_q95": 0.0,
+          "rdsc": 0.0,
+          "transfer": 0.0
+        }
+      }
+    ],
+    "same_platform_original_vs_migrated": true,
+    "sequence": "f02__static",
+    "source": "frozen scientific capsule source",
+    "status": "PASS",
+    "window": 0
+  },
+  "public_release": false,
+  "runtime": {
+    "machine": "aarch64",
+    "numpy": "2.2.6",
+    "python": "3.12.15 (main, Oct  1 2026, 21:42:26) [GCC 12.2.0]",
+    "scipy": "1.16.1",
+    "system": "Linux"
+  },
+  "source_distribution_install_verified": true,
+  "status": "SOURCE_EQUIVALENCE_AND_DECISION_REPLAY_CONFIRMED",
+  "strict_historic_numeric_reference_match": false,
+  "wheel_install_verified": true
+}

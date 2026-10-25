@@ -1,0 +1,5404 @@
+{
+  "records": [
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.5056222044035694,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.0307942990334076
+      },
+      "id": "independent:f01__static__00",
+      "index": 0,
+      "pairs": 11212,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.9642633638502915,
+        "japd": 7.16423958977656,
+        "raw_median": 0.00037254114689168664,
+        "raw_q95": 0.030794288609202712,
+        "rdsc": 0.008693208650592687,
+        "transfer": [
+          0.49962655378223797,
+          0.49962655378223797
+        ]
+      },
+      "sequence": "f01__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.5056222044035694,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.030555849434297656
+      },
+      "id": "inherit_global:f01__static__00",
+      "index": 0,
+      "pairs": 11212,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 5.495550620089311,
+        "japd": 5.964230767358123,
+        "raw_median": 5.632349762497435e-09,
+        "raw_q95": 0.03055583909081055,
+        "rdsc": 0.008508471028390703,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4741953809417114,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03525347306947552
+      },
+      "id": "independent:f01__static__01",
+      "index": 1,
+      "pairs": 10942,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.4520716155304196,
+        "japd": 4.500326758776936,
+        "raw_median": 0.0009358676324869623,
+        "raw_q95": 0.035253523839979865,
+        "rdsc": 0.0129606581328238,
+        "transfer": [
+          0.4997654057866594,
+          0.49976765556247904
+        ]
+      },
+      "sequence": "f01__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4741953809417114,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.035639696365022254
+      },
+      "id": "inherit_global:f01__static__01",
+      "index": 1,
+      "pairs": 10942,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.4148843956857893,
+        "japd": 2.913123284569355,
+        "raw_median": 0.0007872370921194205,
+        "raw_q95": 0.035639747691748436,
+        "rdsc": 0.012023859013127141,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4763361942311506,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03560801004922148
+      },
+      "id": "independent:f01__static__02",
+      "index": 2,
+      "pairs": 10991,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.7457985049097564,
+        "japd": 6.829102805187051,
+        "raw_median": 0.001138922869230334,
+        "raw_q95": 0.03560799214325583,
+        "rdsc": 0.009871818296935906,
+        "transfer": [
+          0.5004022331682517,
+          0.5004022331682517
+        ]
+      },
+      "sequence": "f01__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4763361942311506,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03525742824957586
+      },
+      "id": "inherit_global:f01__static__02",
+      "index": 2,
+      "pairs": 10991,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.5377687594972693,
+        "japd": 3.101786515775446,
+        "raw_median": 0.0006125898020318692,
+        "raw_q95": 0.03525741051990499,
+        "rdsc": 0.009329907766941712,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4783335346279065,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03478715594043734
+      },
+      "id": "independent:f01__static__03",
+      "index": 3,
+      "pairs": 11016,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.6104839077788977,
+        "japd": 4.712827797244429,
+        "raw_median": 0.0009569926689831741,
+        "raw_q95": 0.034787092416460594,
+        "rdsc": 0.010015477525253681,
+        "transfer": [
+          0.4999551133404069,
+          0.49996010357342757
+        ]
+      },
+      "sequence": "f01__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4783335346279065,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03472425344749407
+      },
+      "id": "inherit_global:f01__static__03",
+      "index": 3,
+      "pairs": 11016,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.4866660069267565,
+        "japd": 3.087419714662488,
+        "raw_median": 0.0007668323927557718,
+        "raw_q95": 0.03472419003838203,
+        "rdsc": 0.009852884891668646,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4582636050730864,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.033268027655184065
+      },
+      "id": "independent:f01__static__04",
+      "index": 4,
+      "pairs": 10983,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.674939591612169,
+        "japd": 4.656366682804002,
+        "raw_median": 0.0009882709252891696,
+        "raw_q95": 0.033267985501359204,
+        "rdsc": 0.010918525827132293,
+        "transfer": [
+          0.4995090526704949,
+          0.4995090526704949
+        ]
+      },
+      "sequence": "f01__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4582636050730864,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03353360252055026
+      },
+      "id": "inherit_global:f01__static__04",
+      "index": 4,
+      "pairs": 10983,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.637077489336519,
+        "japd": 3.1098855798938594,
+        "raw_median": 0.0007201442809353087,
+        "raw_q95": 0.03353356003021622,
+        "rdsc": 0.010700862825046972,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.436741285934047,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03570249710473774
+      },
+      "id": "independent:f01__static__05",
+      "index": 5,
+      "pairs": 11014,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.5492065107340802,
+        "japd": 5.072224378285741,
+        "raw_median": 0.0011265883371008696,
+        "raw_q95": 0.03570246854389215,
+        "rdsc": 0.011627301903632512,
+        "transfer": [
+          0.5001396210734699,
+          0.5001411588187661
+        ]
+      },
+      "sequence": "f01__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.436741285934047,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03501652770755811
+      },
+      "id": "inherit_global:f01__static__05",
+      "index": 5,
+      "pairs": 11014,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.4227859781028678,
+        "japd": 2.962992198131581,
+        "raw_median": 0.0008373879728100679,
+        "raw_q95": 0.03501649969546589,
+        "rdsc": 0.010540346092986945,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.431080405744496,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03292585489549086
+      },
+      "id": "independent:f01__static__06",
+      "index": 6,
+      "pairs": 10780,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.5112455827427334,
+        "japd": 3.2566569548524917,
+        "raw_median": 0.0009874222168272547,
+        "raw_q95": 0.03292581614914463,
+        "rdsc": 0.008872689664874497,
+        "transfer": [
+          0.5001609836983012,
+          0.5001632459155054
+        ]
+      },
+      "sequence": "f01__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.431080405744496,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.033109315111270424
+      },
+      "id": "inherit_global:f01__static__06",
+      "index": 6,
+      "pairs": 10780,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.5865520882421493,
+        "japd": 3.029665883251508,
+        "raw_median": 0.0009032468061381533,
+        "raw_q95": 0.03310927614903267,
+        "rdsc": 0.008827610134392224,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.384997826137996,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.02922911827372383
+      },
+      "id": "independent:f01__static__07",
+      "index": 7,
+      "pairs": 10783,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.6512441947829664,
+        "japd": 5.858819464269542,
+        "raw_median": 0.0008941112901091868,
+        "raw_q95": 0.02922939076877864,
+        "rdsc": 0.008977174164742353,
+        "transfer": [
+          0.499809066166802,
+          0.499809066166802
+        ]
+      },
+      "sequence": "f01__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.384997826137996,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.02920299316961476
+      },
+      "id": "inherit_global:f01__static__07",
+      "index": 7,
+      "pairs": 10783,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.879532183082729,
+        "japd": 3.0916362746923505,
+        "raw_median": 0.0006163088652048885,
+        "raw_q95": 0.029203265421112387,
+        "rdsc": 0.008723522576908626,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3252963642695677,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.0218771852913278
+      },
+      "id": "independent:f01__static__08",
+      "index": 8,
+      "pairs": 10739,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.993606496702727,
+        "japd": 9.94773550114611,
+        "raw_median": 0.0006154084423543847,
+        "raw_q95": 0.021876992211099844,
+        "rdsc": 0.009790060673755938,
+        "transfer": [
+          0.49970809149263457,
+          0.49970809149263457
+        ]
+      },
+      "sequence": "f01__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3252963642695677,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.02189913010680874
+      },
+      "id": "inherit_global:f01__static__08",
+      "index": 8,
+      "pairs": 10739,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.224377470695955,
+        "japd": 6.464627725832577,
+        "raw_median": 1.1132255439630599e-08,
+        "raw_q95": 0.02189893683290368,
+        "rdsc": 0.00867733991871466,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.515431104180065,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03142489969104393
+      },
+      "id": "independent:f01__fem__00",
+      "index": 0,
+      "pairs": 11209,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.704192102094218,
+        "japd": 6.499662268914821,
+        "raw_median": 0.00036843863595025075,
+        "raw_q95": 0.0314249009070084,
+        "rdsc": 0.008419837906135832,
+        "transfer": [
+          0.49975484350298244,
+          0.49975484350298244
+        ]
+      },
+      "sequence": "f01__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.515431104180065,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.031012471837002197
+      },
+      "id": "inherit_global:f01__fem__00",
+      "index": 0,
+      "pairs": 11209,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 5.462098710346504,
+        "japd": 5.665592417574383,
+        "raw_median": 5.719684259900662e-09,
+        "raw_q95": 0.03101247303700806,
+        "rdsc": 0.00848853539135378,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.478833261724862,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.036491041836569926
+      },
+      "id": "independent:f01__fem__01",
+      "index": 1,
+      "pairs": 10950,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.465249910579399,
+        "japd": 4.023356626648884,
+        "raw_median": 0.000986055550013991,
+        "raw_q95": 0.036491042100536164,
+        "rdsc": 0.010454781575998252,
+        "transfer": [
+          0.5001520159195522,
+          0.5001528111587061
+        ]
+      },
+      "sequence": "f01__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.478833261724862,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03682115957475013
+      },
+      "id": "inherit_global:f01__fem__01",
+      "index": 1,
+      "pairs": 10950,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.5774471123344416,
+        "japd": 2.8783002965783346,
+        "raw_median": 0.0007914792372112015,
+        "raw_q95": 0.03682115984110435,
+        "rdsc": 0.009719422018782507,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4667564411678446,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03715538342151477
+      },
+      "id": "independent:f01__fem__02",
+      "index": 2,
+      "pairs": 11033,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.631070610121807,
+        "japd": 5.2514137402484735,
+        "raw_median": 0.0009024144414733055,
+        "raw_q95": 0.03715532214380864,
+        "rdsc": 0.012706821636234355,
+        "transfer": [
+          0.5004905137583933,
+          0.5004905137583933
+        ]
+      },
+      "sequence": "f01__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4667564411678446,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03746833258450951
+      },
+      "id": "inherit_global:f01__fem__02",
+      "index": 2,
+      "pairs": 11033,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.7637440752285722,
+        "japd": 2.9837537805688945,
+        "raw_median": 0.0006926188707508928,
+        "raw_q95": 0.03746827079067879,
+        "rdsc": 0.01265213472785663,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.484369536854768,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.037508510317707244
+      },
+      "id": "independent:f01__fem__03",
+      "index": 3,
+      "pairs": 10939,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.585036023478971,
+        "japd": 5.971464263773865,
+        "raw_median": 0.0009751741184035771,
+        "raw_q95": 0.03750841771191603,
+        "rdsc": 0.009751551501519969,
+        "transfer": [
+          0.5002009229602737,
+          0.5002009229602737
+        ]
+      },
+      "sequence": "f01__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.484369536854768,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.036904307857453675
+      },
+      "id": "inherit_global:f01__fem__03",
+      "index": 3,
+      "pairs": 10939,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.4837964060494975,
+        "japd": 3.1421917957928813,
+        "raw_median": 0.0007090684420756641,
+        "raw_q95": 0.0369042167433945,
+        "rdsc": 0.00990106858109119,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.460244155264164,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.037491678537404906
+      },
+      "id": "independent:f01__fem__04",
+      "index": 4,
+      "pairs": 10964,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.789272004402658,
+        "japd": 9.503337541432831,
+        "raw_median": 0.0015468434281335135,
+        "raw_q95": 0.03749165877834665,
+        "rdsc": 0.012869524511359613,
+        "transfer": [
+          0.5003905520546783,
+          0.5003905520546783
+        ]
+      },
+      "sequence": "f01__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.460244155264164,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03610929457815384
+      },
+      "id": "inherit_global:f01__fem__04",
+      "index": 4,
+      "pairs": 10964,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.296296290968473,
+        "japd": 3.2020845735892225,
+        "raw_median": 0.0008878791527011147,
+        "raw_q95": 0.03610927554764672,
+        "rdsc": 0.013416165879641897,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4579355440567827,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.04248677982133619
+      },
+      "id": "independent:f01__fem__05",
+      "index": 5,
+      "pairs": 10724,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.1109098761410356,
+        "japd": 16.996242350335713,
+        "raw_median": 0.002535648730792733,
+        "raw_q95": 0.04248680528817892,
+        "rdsc": 0.016954493751485663,
+        "transfer": [
+          0.500603924450827,
+          0.500603924450827
+        ]
+      },
+      "sequence": "f01__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4579355440567827,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03772732612506674
+      },
+      "id": "inherit_global:f01__fem__05",
+      "index": 5,
+      "pairs": 10724,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.4899399724523033,
+        "japd": 3.33769924778332,
+        "raw_median": 0.0009643881078410713,
+        "raw_q95": 0.03772734873906303,
+        "rdsc": 0.011758422485921776,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.445454016252752,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03534535042316701
+      },
+      "id": "independent:f01__fem__06",
+      "index": 6,
+      "pairs": 10697,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.935469147041633,
+        "japd": 7.812035094902054,
+        "raw_median": 0.001289972831938201,
+        "raw_q95": 0.035345278937814834,
+        "rdsc": 0.011793472650935014,
+        "transfer": [
+          0.5003414074710397,
+          0.5003414074710397
+        ]
+      },
+      "sequence": "f01__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.445454016252752,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03501037513961243
+      },
+      "id": "inherit_global:f01__fem__06",
+      "index": 6,
+      "pairs": 10697,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.7003260897706394,
+        "japd": 3.3609998583865477,
+        "raw_median": 0.0008191923419306888,
+        "raw_q95": 0.03501030433174189,
+        "rdsc": 0.01236953249523893,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4071272603388874,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.030959333215598104
+      },
+      "id": "independent:f01__fem__07",
+      "index": 7,
+      "pairs": 10714,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.848105584916313,
+        "japd": 9.745977193695206,
+        "raw_median": 0.0015908886492903506,
+        "raw_q95": 0.03095933685518159,
+        "rdsc": 0.011654630098805225,
+        "transfer": [
+          0.5004475089269687,
+          0.5004510737583516
+        ]
+      },
+      "sequence": "f01__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4071272603388874,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.030304615950236743
+      },
+      "id": "inherit_global:f01__fem__07",
+      "index": 7,
+      "pairs": 10714,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.6524426102032264,
+        "japd": 3.389903415867163,
+        "raw_median": 0.0006579759324931611,
+        "raw_q95": 0.030304619512851568,
+        "rdsc": 0.009410168826902092,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3337933264751958,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.02254258697448562
+      },
+      "id": "independent:f01__fem__08",
+      "index": 8,
+      "pairs": 10720,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.364112939317599,
+        "japd": 16.83012704068203,
+        "raw_median": 0.0014409532613381642,
+        "raw_q95": 0.022542604041433597,
+        "rdsc": 0.009275564205244832,
+        "transfer": [
+          0.5000691080974982,
+          0.5000691080974982
+        ]
+      },
+      "sequence": "f01__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3337933264751958,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.02147261291035264
+      },
+      "id": "inherit_global:f01__fem__08",
+      "index": 8,
+      "pairs": 10720,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.1177298164754434,
+        "japd": 7.124217887915961,
+        "raw_median": 9.461402749826303e-09,
+        "raw_q95": 0.02147262916722537,
+        "rdsc": 0.010076309506192758,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.522289866324255,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.032045180280836735
+      },
+      "id": "independent:f01__nonfem__00",
+      "index": 0,
+      "pairs": 11211,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.8934119174507864,
+        "japd": 6.265583518053633,
+        "raw_median": 0.0003657923230973166,
+        "raw_q95": 0.03204515219419005,
+        "rdsc": 0.007543780828401223,
+        "transfer": [
+          0.4989778090450841,
+          0.4989778090450841
+        ]
+      },
+      "sequence": "f01__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.522289866324255,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03126945281607208
+      },
+      "id": "inherit_global:f01__nonfem__00",
+      "index": 0,
+      "pairs": 11211,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 5.4574418026355085,
+        "japd": 6.054215470256662,
+        "raw_median": 6.233117327673561e-09,
+        "raw_q95": 0.03126942540932743,
+        "rdsc": 0.007766289989007345,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4826998790624266,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03858083024148303
+      },
+      "id": "independent:f01__nonfem__01",
+      "index": 1,
+      "pairs": 10950,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.560542253572639,
+        "japd": 5.8088627893445945,
+        "raw_median": 0.001123694107053946,
+        "raw_q95": 0.03858086966094325,
+        "rdsc": 0.013416373775175206,
+        "transfer": [
+          0.5002286508779089,
+          0.5002324422324956
+        ]
+      },
+      "sequence": "f01__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4826998790624266,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03827037349478407
+      },
+      "id": "inherit_global:f01__nonfem__01",
+      "index": 1,
+      "pairs": 10950,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.4916082981152856,
+        "japd": 2.989354675323317,
+        "raw_median": 0.0007881967028415658,
+        "raw_q95": 0.03827041259703916,
+        "rdsc": 0.012913665102656596,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4752550786087384,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03714994744095692
+      },
+      "id": "independent:f01__nonfem__02",
+      "index": 2,
+      "pairs": 10986,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.8734333993808425,
+        "japd": 8.982195274381766,
+        "raw_median": 0.001316962794272944,
+        "raw_q95": 0.03714991525458012,
+        "rdsc": 0.014409593415690725,
+        "transfer": [
+          0.500310183741793,
+          0.500310183741793
+        ]
+      },
+      "sequence": "f01__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4752550786087384,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03681503574085315
+      },
+      "id": "inherit_global:f01__nonfem__02",
+      "index": 2,
+      "pairs": 10986,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.6001289123874285,
+        "japd": 3.1508310869181626,
+        "raw_median": 0.0006942826027909064,
+        "raw_q95": 0.03681500384464081,
+        "rdsc": 0.013474710689318733,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.453172495902936,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.04881633495803225
+      },
+      "id": "independent:f01__nonfem__03",
+      "index": 3,
+      "pairs": 10868,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.437595324760994,
+        "japd": 15.163797551180416,
+        "raw_median": 0.0022118385196658557,
+        "raw_q95": 0.04881642047692328,
+        "rdsc": 0.04561749144332895,
+        "transfer": [
+          0.5005090971226944,
+          0.500524059858547
+        ]
+      },
+      "sequence": "f01__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.453172495902936,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.0469007316897323
+      },
+      "id": "inherit_global:f01__nonfem__03",
+      "index": 3,
+      "pairs": 10868,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.5866968426168975,
+        "japd": 3.728640298851846,
+        "raw_median": 0.0008087337584846329,
+        "raw_q95": 0.046900813852773955,
+        "rdsc": 0.04273441203221285,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.382621643594815,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.14304755218332726
+      },
+      "id": "independent:f01__nonfem__04",
+      "index": 4,
+      "pairs": 10538,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.5886237953540916,
+        "japd": 27.462776300164656,
+        "raw_median": 0.010854770624145539,
+        "raw_q95": 0.14304774048203825,
+        "rdsc": 0.2877270978021043,
+        "transfer": [
+          0.5050430516127015,
+          0.5050592143627739
+        ]
+      },
+      "sequence": "f01__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.382621643594815,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.06312342445337854
+      },
+      "id": "inherit_global:f01__nonfem__04",
+      "index": 4,
+      "pairs": 10538,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 2.411593638533949,
+        "japd": 3.7659338094529784,
+        "raw_median": 0.00179899273336014,
+        "raw_q95": 0.06312350754504473,
+        "rdsc": 0.05487012715521825,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4417064517176965,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.06703213222157836
+      },
+      "id": "independent:f01__nonfem__05",
+      "index": 5,
+      "pairs": 10551,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.6227877812524563,
+        "japd": 22.48093966229238,
+        "raw_median": 0.010585891099384445,
+        "raw_q95": 0.06703298789529573,
+        "rdsc": 0.027599068912451185,
+        "transfer": [
+          0.5044023523236045,
+          0.5044023523236045
+        ]
+      },
+      "sequence": "f01__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4417064517176965,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.060193538766741134
+      },
+      "id": "inherit_global:f01__nonfem__05",
+      "index": 5,
+      "pairs": 10551,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 2.2388944609108106,
+        "japd": 3.3089697931475883,
+        "raw_median": 0.0021056859740958673,
+        "raw_q95": 0.06019430714494082,
+        "rdsc": 0.017189367016501665,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.515737809742048,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.04874644467600784
+      },
+      "id": "independent:f01__nonfem__06",
+      "index": 6,
+      "pairs": 10627,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 4.862285610154998,
+        "japd": 37.60575381742839,
+        "raw_median": 0.006528362197647149,
+        "raw_q95": 0.04874643394580394,
+        "rdsc": 0.03434716155707965,
+        "transfer": [
+          0.5121656652023616,
+          0.5121888423740446
+        ]
+      },
+      "sequence": "f01__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.515737809742048,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.04281155527054751
+      },
+      "id": "inherit_global:f01__nonfem__06",
+      "index": 6,
+      "pairs": 10627,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.987131044799087,
+        "japd": 4.503081212845213,
+        "raw_median": 0.0010154827022429125,
+        "raw_q95": 0.04281154584674808,
+        "rdsc": 0.022975322532313318,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.497410966626599,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.041598237214256
+      },
+      "id": "independent:f01__nonfem__07",
+      "index": 7,
+      "pairs": 10677,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.1623416964981472,
+        "japd": 23.68167067090243,
+        "raw_median": 0.004239023879116868,
+        "raw_q95": 0.04159824558303542,
+        "rdsc": 0.02605688938498096,
+        "transfer": [
+          0.5021112316773518,
+          0.5021112316773518
+        ]
+      },
+      "sequence": "f01__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.497410966626599,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03292192874739016
+      },
+      "id": "inherit_global:f01__nonfem__07",
+      "index": 7,
+      "pairs": 10677,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.102122422034328,
+        "japd": 3.0027013066340027,
+        "raw_median": 0.0006822519595012134,
+        "raw_q95": 0.03292193537066023,
+        "rdsc": 0.013968548723675802,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4496726351881564,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.027130024827651963
+      },
+      "id": "independent:f01__nonfem__08",
+      "index": 8,
+      "pairs": 10768,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.1977928280868557,
+        "japd": 34.77204336122003,
+        "raw_median": 0.0034637951059782847,
+        "raw_q95": 0.027130132876202008,
+        "rdsc": 0.013253909852330619,
+        "transfer": [
+          0.49984020706531296,
+          0.4998461329123967
+        ]
+      },
+      "sequence": "f01__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4496726351881564,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.02329842963253847
+      },
+      "id": "inherit_global:f01__nonfem__08",
+      "index": 8,
+      "pairs": 10768,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.2742934614069954,
+        "japd": 5.435880046205384,
+        "raw_median": 8.44032284785362e-09,
+        "raw_q95": 0.023298522421305014,
+        "rdsc": 0.0098487814081093,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f01__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.694210915967796,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.029823380587549325
+      },
+      "id": "independent:f02__static__00",
+      "index": 0,
+      "pairs": 10587,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.8855101295544006,
+        "japd": 9.422801232698093,
+        "raw_median": 0.0005821643328506192,
+        "raw_q95": 0.029823286907831575,
+        "rdsc": 0.00833668950100791,
+        "transfer": [
+          0.4992569251291385,
+          0.4992619466738932
+        ]
+      },
+      "sequence": "f02__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.694210915967796,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.029600120937812793
+      },
+      "id": "inherit_global:f02__static__00",
+      "index": 0,
+      "pairs": 10587,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 5.354242144455246,
+        "japd": 5.901192088806277,
+        "raw_median": 6.927749491794347e-09,
+        "raw_q95": 0.029600027959387133,
+        "rdsc": 0.00882175294544126,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.6963537811448854,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03327468439643268
+      },
+      "id": "independent:f02__static__01",
+      "index": 1,
+      "pairs": 9785,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.5006108612459994,
+        "japd": 5.11404528774569,
+        "raw_median": 0.0015582701219263417,
+        "raw_q95": 0.033274875103109065,
+        "rdsc": 0.01228966768035831,
+        "transfer": [
+          0.49938858885745396,
+          0.49938858885745396
+        ]
+      },
+      "sequence": "f02__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.6963537811448854,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.033068256468468754
+      },
+      "id": "inherit_global:f02__static__01",
+      "index": 1,
+      "pairs": 9785,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 2.82678862930922,
+        "japd": 2.8971389749840664,
+        "raw_median": 0.0010409951801218175,
+        "raw_q95": 0.033068445992048,
+        "rdsc": 0.011213538498882663,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.931499396407043,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.043395828945328487
+      },
+      "id": "independent:f02__static__02",
+      "index": 2,
+      "pairs": 9385,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.728354310710178,
+        "japd": 5.591966857799964,
+        "raw_median": 0.0010430044371047146,
+        "raw_q95": 0.0433958460415348,
+        "rdsc": 0.01276966201673098,
+        "transfer": [
+          0.4998725203204978,
+          0.4998744421562839
+        ]
+      },
+      "sequence": "f02__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.931499396407043,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.043450295781316796
+      },
+      "id": "inherit_global:f02__static__02",
+      "index": 2,
+      "pairs": 9385,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.8247256615438463,
+        "japd": 2.507505196735506,
+        "raw_median": 0.0006625666096213045,
+        "raw_q95": 0.043450312898980846,
+        "rdsc": 0.01162228028466487,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 3.0656060108908565,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.04017760019593898
+      },
+      "id": "independent:f02__static__03",
+      "index": 3,
+      "pairs": 9144,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.2636148636154667,
+        "japd": 6.545916636133096,
+        "raw_median": 0.0010519523258672656,
+        "raw_q95": 0.04017757395160628,
+        "rdsc": 0.015968110327659095,
+        "transfer": [
+          0.50026155047749,
+          0.50026155047749
+        ]
+      },
+      "sequence": "f02__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 3.0656060108908565,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03949743281221527
+      },
+      "id": "inherit_global:f02__static__03",
+      "index": 3,
+      "pairs": 9144,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 5.2411297043113505,
+        "japd": 2.5165224565855224,
+        "raw_median": 0.0006816782855625342,
+        "raw_q95": 0.0394974070121734,
+        "rdsc": 0.016556209599496344,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.859429761962277,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03590660461911903
+      },
+      "id": "independent:f02__static__04",
+      "index": 4,
+      "pairs": 9762,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.763467321054797,
+        "japd": 4.901094620420851,
+        "raw_median": 0.0011734797899200142,
+        "raw_q95": 0.035906401087823295,
+        "rdsc": 0.014049027122418246,
+        "transfer": [
+          0.5000119001705206,
+          0.5000119001705206
+        ]
+      },
+      "sequence": "f02__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.859429761962277,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03563464925661208
+      },
+      "id": "inherit_global:f02__static__04",
+      "index": 4,
+      "pairs": 9762,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.629380433629192,
+        "japd": 2.8766085515786224,
+        "raw_median": 0.0007622051108487703,
+        "raw_q95": 0.03563444726685524,
+        "rdsc": 0.013426830188344643,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.686990114760085,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03676883270862346
+      },
+      "id": "independent:f02__static__05",
+      "index": 5,
+      "pairs": 10344,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.7650578170050513,
+        "japd": 7.319514306169125,
+        "raw_median": 0.0012940975154701112,
+        "raw_q95": 0.036768828744750626,
+        "rdsc": 0.012805404824964221,
+        "transfer": [
+          0.4998187758346603,
+          0.4998187758346603
+        ]
+      },
+      "sequence": "f02__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.686990114760085,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03565927475063368
+      },
+      "id": "inherit_global:f02__static__05",
+      "index": 5,
+      "pairs": 10344,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.6117685378615825,
+        "japd": 2.9211726807868468,
+        "raw_median": 0.0008900241447484331,
+        "raw_q95": 0.03565927090637701,
+        "rdsc": 0.012953703864174207,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.6623879717164805,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03397864164830234
+      },
+      "id": "independent:f02__static__06",
+      "index": 6,
+      "pairs": 10128,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.7672286162581954,
+        "japd": 4.6005659870334,
+        "raw_median": 0.0011780347534857687,
+        "raw_q95": 0.03396401027185201,
+        "rdsc": 0.011562211207545465,
+        "transfer": [
+          0.4996595564441366,
+          0.49966286622350287
+        ]
+      },
+      "sequence": "f02__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.6623879717164805,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03412595003166991
+      },
+      "id": "inherit_global:f02__static__06",
+      "index": 6,
+      "pairs": 10128,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.504385067937097,
+        "japd": 2.7295005014186,
+        "raw_median": 0.0008945065708562636,
+        "raw_q95": 0.03411125522347815,
+        "rdsc": 0.010822870439528228,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.598065358572276,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03202371836875826
+      },
+      "id": "independent:f02__static__07",
+      "index": 7,
+      "pairs": 10182,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.666671367062184,
+        "japd": 6.184524551816519,
+        "raw_median": 0.0012012499772412915,
+        "raw_q95": 0.03202403520618941,
+        "rdsc": 0.008792141936931033,
+        "transfer": [
+          0.499961739684425,
+          0.4999629339427501
+        ]
+      },
+      "sequence": "f02__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.598065358572276,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.0319667536961258
+      },
+      "id": "inherit_global:f02__static__07",
+      "index": 7,
+      "pairs": 10182,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.5036312009521655,
+        "japd": 2.9840477745179252,
+        "raw_median": 0.0008867570117043524,
+        "raw_q95": 0.03196706996995781,
+        "rdsc": 0.008805174699373187,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.520883716621549,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.024097842931421927
+      },
+      "id": "independent:f02__static__08",
+      "index": 8,
+      "pairs": 10275,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.7466428537887286,
+        "japd": 7.226297175151106,
+        "raw_median": 0.0006865453249747366,
+        "raw_q95": 0.024097899792643037,
+        "rdsc": 0.00950937590396554,
+        "transfer": [
+          0.49976644686599053,
+          0.4997690791222933
+        ]
+      },
+      "sequence": "f02__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.520883716621549,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.02429876330741032
+      },
+      "id": "inherit_global:f02__static__08",
+      "index": 8,
+      "pairs": 10275,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.00779840296849,
+        "japd": 5.817609820829434,
+        "raw_median": 1.6256222824353694e-08,
+        "raw_q95": 0.024298820642722742,
+        "rdsc": 0.00874668879223422,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.707400163437088,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.030445537697791764
+      },
+      "id": "independent:f02__fem__00",
+      "index": 0,
+      "pairs": 10611,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.734088868902444,
+        "japd": 8.0802508027094,
+        "raw_median": 0.0003612791919347774,
+        "raw_q95": 0.030445457719173768,
+        "rdsc": 0.009215380369766117,
+        "transfer": [
+          0.4995563788353075,
+          0.4995563788353075
+        ]
+      },
+      "sequence": "f02__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.707400163437088,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.02985186030965947
+      },
+      "id": "inherit_global:f02__fem__00",
+      "index": 0,
+      "pairs": 10611,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 5.265523258276774,
+        "japd": 5.334533984485288,
+        "raw_median": 6.772635268384642e-09,
+        "raw_q95": 0.029851781890596688,
+        "rdsc": 0.009284886372897745,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.7180940105401654,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03325284383750659
+      },
+      "id": "independent:f02__fem__01",
+      "index": 1,
+      "pairs": 9756,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.415028756925574,
+        "japd": 5.140827043029919,
+        "raw_median": 0.001488952699204884,
+        "raw_q95": 0.033253024690708635,
+        "rdsc": 0.011757912223094715,
+        "transfer": [
+          0.49965914967293634,
+          0.4996596316364116
+        ]
+      },
+      "sequence": "f02__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.7180940105401654,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03289590841634903
+      },
+      "id": "inherit_global:f02__fem__01",
+      "index": 1,
+      "pairs": 9756,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 2.965047134086394,
+        "japd": 2.8862541337901257,
+        "raw_median": 0.0009761806128973856,
+        "raw_q95": 0.032896087328276105,
+        "rdsc": 0.011340823958634949,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.9419546373793892,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.040899608115149796
+      },
+      "id": "independent:f02__fem__02",
+      "index": 2,
+      "pairs": 9322,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.2332218028454363,
+        "japd": 8.725815879131606,
+        "raw_median": 0.0012348811918246293,
+        "raw_q95": 0.04089978868042703,
+        "rdsc": 0.01275983467524164,
+        "transfer": [
+          0.4999444516938949,
+          0.4999444516938949
+        ]
+      },
+      "sequence": "f02__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.9419546373793892,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.04137155311617273
+      },
+      "id": "inherit_global:f02__fem__02",
+      "index": 2,
+      "pairs": 9322,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.992340233120477,
+        "japd": 2.6463514351183877,
+        "raw_median": 0.0006665384766664149,
+        "raw_q95": 0.04137173576501222,
+        "rdsc": 0.011007727049652749,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 3.0619049957682787,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03985040959916876
+      },
+      "id": "independent:f02__fem__03",
+      "index": 3,
+      "pairs": 9089,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.129585098787336,
+        "japd": 7.37085841202887,
+        "raw_median": 0.0014854982813519782,
+        "raw_q95": 0.039850448220196434,
+        "rdsc": 0.019814626962590183,
+        "transfer": [
+          0.5000605342640027,
+          0.5000667018473229
+        ]
+      },
+      "sequence": "f02__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 3.0619049957682787,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.037465345239666964
+      },
+      "id": "inherit_global:f02__fem__03",
+      "index": 3,
+      "pairs": 9089,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 5.314623010029258,
+        "japd": 2.5621928690084035,
+        "raw_median": 0.0006574176751618249,
+        "raw_q95": 0.03746538154920932,
+        "rdsc": 0.016103270991632918,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.8368616948978764,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.04108308696349997
+      },
+      "id": "independent:f02__fem__04",
+      "index": 4,
+      "pairs": 9818,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.0924660401154958,
+        "japd": 12.000752476029898,
+        "raw_median": 0.002125140467658917,
+        "raw_q95": 0.04108327317594077,
+        "rdsc": 0.016579402868682317,
+        "transfer": [
+          0.4994890019757692,
+          0.4994890019757692
+        ]
+      },
+      "sequence": "f02__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.8368616948978764,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03709743905881082
+      },
+      "id": "inherit_global:f02__fem__04",
+      "index": 4,
+      "pairs": 9818,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.700338885878941,
+        "japd": 2.9446101689314297,
+        "raw_median": 0.0007605390786951799,
+        "raw_q95": 0.03709760720597758,
+        "rdsc": 0.012527795752086455,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.674506663151327,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.04059919045628558
+      },
+      "id": "independent:f02__fem__05",
+      "index": 5,
+      "pairs": 10389,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.8853290878762943,
+        "japd": 13.152066347855488,
+        "raw_median": 0.002610020926659893,
+        "raw_q95": 0.04059952289708207,
+        "rdsc": 0.020542432533271808,
+        "transfer": [
+          0.49895984205709226,
+          0.49895984205709226
+        ]
+      },
+      "sequence": "f02__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.674506663151327,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03592635437988228
+      },
+      "id": "inherit_global:f02__fem__05",
+      "index": 5,
+      "pairs": 10389,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.4067723942025423,
+        "japd": 3.2758924184734632,
+        "raw_median": 0.000900642265005172,
+        "raw_q95": 0.03592664855781369,
+        "rdsc": 0.01556455874639596,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.638615719373861,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.035283108944239805
+      },
+      "id": "independent:f02__fem__06",
+      "index": 6,
+      "pairs": 10140,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.69352105456163,
+        "japd": 8.35932234836864,
+        "raw_median": 0.001356803003827857,
+        "raw_q95": 0.0352831292365298,
+        "rdsc": 0.011379867022878616,
+        "transfer": [
+          0.5003119862342711,
+          0.5003119862342711
+        ]
+      },
+      "sequence": "f02__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.638615719373861,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03563024103367019
+      },
+      "id": "inherit_global:f02__fem__06",
+      "index": 6,
+      "pairs": 10140,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.3259357036626795,
+        "japd": 3.0254218076416137,
+        "raw_median": 0.0009911968000914104,
+        "raw_q95": 0.035630261525605424,
+        "rdsc": 0.010839278857842057,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.6078121597145922,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.036714785275064284
+      },
+      "id": "independent:f02__fem__07",
+      "index": 7,
+      "pairs": 10307,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.5203002228660605,
+        "japd": 9.390127111128622,
+        "raw_median": 0.0018258774719684145,
+        "raw_q95": 0.03671523983181694,
+        "rdsc": 0.012712391710132836,
+        "transfer": [
+          0.5003358466063043,
+          0.5003358466063043
+        ]
+      },
+      "sequence": "f02__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.6078121597145922,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03445213724702774
+      },
+      "id": "inherit_global:f02__fem__07",
+      "index": 7,
+      "pairs": 10307,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.1692994188713066,
+        "japd": 2.969045109102058,
+        "raw_median": 0.0009787599248692346,
+        "raw_q95": 0.03445256379049004,
+        "rdsc": 0.010156696634556279,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.5314695914459304,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.026571122909744917
+      },
+      "id": "independent:f02__fem__08",
+      "index": 8,
+      "pairs": 10258,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.899422228403985,
+        "japd": 14.025336194423353,
+        "raw_median": 0.001353343335458992,
+        "raw_q95": 0.02657192064937851,
+        "rdsc": 0.011695764831688804,
+        "transfer": [
+          0.5002354544815423,
+          0.5002415860774283
+        ]
+      },
+      "sequence": "f02__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.5314695914459304,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.02551870446921093
+      },
+      "id": "inherit_global:f02__fem__08",
+      "index": 8,
+      "pairs": 10258,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.7649947317288035,
+        "japd": 5.251184034478117,
+        "raw_median": 1.3656153875394184e-08,
+        "raw_q95": 0.025519470612291227,
+        "rdsc": 0.009990465978425489,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.7230706594414116,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.030144127423858958
+      },
+      "id": "independent:f02__nonfem__00",
+      "index": 0,
+      "pairs": 10594,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.3953005167021755,
+        "japd": 6.004450797067655,
+        "raw_median": 0.0002863334173902333,
+        "raw_q95": 0.030144126481086275,
+        "rdsc": 0.007864382706686686,
+        "transfer": [
+          0.4997241887185584,
+          0.4997241887185584
+        ]
+      },
+      "sequence": "f02__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.7230706594414116,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.030131959816988258
+      },
+      "id": "inherit_global:f02__nonfem__00",
+      "index": 0,
+      "pairs": 10594,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 5.242764380872436,
+        "japd": 5.581674123201648,
+        "raw_median": 6.640531681473856e-09,
+        "raw_q95": 0.03013195887459612,
+        "rdsc": 0.007374587421506276,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.723208398250169,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03318038131750905
+      },
+      "id": "independent:f02__nonfem__01",
+      "index": 1,
+      "pairs": 9807,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.3707939368003252,
+        "japd": 6.420445305132197,
+        "raw_median": 0.0016284525390201294,
+        "raw_q95": 0.033180465544538386,
+        "rdsc": 0.012104089092794007,
+        "transfer": [
+          0.4993317040801313,
+          0.4993317040801313
+        ]
+      },
+      "sequence": "f02__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.723208398250169,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.033061779182669226
+      },
+      "id": "inherit_global:f02__nonfem__01",
+      "index": 1,
+      "pairs": 9807,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 2.800991712503816,
+        "japd": 2.848140533120774,
+        "raw_median": 0.0009981978655057273,
+        "raw_q95": 0.03306186310863194,
+        "rdsc": 0.011925375004494372,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.9275117645237088,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.04137778512164392
+      },
+      "id": "independent:f02__nonfem__02",
+      "index": 2,
+      "pairs": 9382,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.7875469116816807,
+        "japd": 6.537310427156504,
+        "raw_median": 0.001100928785543403,
+        "raw_q95": 0.04137780385826256,
+        "rdsc": 0.012562017147005554,
+        "transfer": [
+          0.5001759562585932,
+          0.5001759562585932
+        ]
+      },
+      "sequence": "f02__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.9275117645237088,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.04102748708194711
+      },
+      "id": "inherit_global:f02__nonfem__02",
+      "index": 2,
+      "pairs": 9382,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.0833075682384745,
+        "japd": 2.6606231921103958,
+        "raw_median": 0.0007118936389841615,
+        "raw_q95": 0.04102750565994439,
+        "rdsc": 0.013266011253586084,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 3.034612652977095,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.04630048127747551
+      },
+      "id": "independent:f02__nonfem__03",
+      "index": 3,
+      "pairs": 9029,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 4.6121586994258195,
+        "japd": 10.212562118054086,
+        "raw_median": 0.0021458026303724405,
+        "raw_q95": 0.04630040839349719,
+        "rdsc": 0.03130616579201227,
+        "transfer": [
+          0.5019349068729164,
+          0.5019386735370442
+        ]
+      },
+      "sequence": "f02__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 3.034612652977095,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.04482887138045036
+      },
+      "id": "inherit_global:f02__nonfem__03",
+      "index": 3,
+      "pairs": 9029,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 5.4597220363906285,
+        "japd": 3.021841783792379,
+        "raw_median": 0.0007199683367446446,
+        "raw_q95": 0.044828800813009155,
+        "rdsc": 0.030084554703005754,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.699387234362432,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.11006950738744027
+      },
+      "id": "independent:f02__nonfem__04",
+      "index": 4,
+      "pairs": 9157,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.3155738164981834,
+        "japd": 30.282672927469648,
+        "raw_median": 0.013851656271006792,
+        "raw_q95": 0.11006978249108634,
+        "rdsc": 0.0997055255485445,
+        "transfer": [
+          0.5060848683088969,
+          0.5060855819040868
+        ]
+      },
+      "sequence": "f02__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.699387234362432,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.05459087135636459
+      },
+      "id": "inherit_global:f02__nonfem__04",
+      "index": 4,
+      "pairs": 9157,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.140259681237918,
+        "japd": 3.233223782198822,
+        "raw_median": 0.0015586301466916836,
+        "raw_q95": 0.054591007798764565,
+        "rdsc": 0.02845352337985953,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.7058269870070264,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.09083450021349491
+      },
+      "id": "independent:f02__nonfem__05",
+      "index": 5,
+      "pairs": 10000,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.6106834083174877,
+        "japd": 17.869811567765275,
+        "raw_median": 0.006515906203213191,
+        "raw_q95": 0.09083568300632928,
+        "rdsc": 0.08158267635124547,
+        "transfer": [
+          0.504690753814421,
+          0.5047372577738761
+        ]
+      },
+      "sequence": "f02__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.7058269870070264,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.06286481546821567
+      },
+      "id": "inherit_global:f02__nonfem__05",
+      "index": 5,
+      "pairs": 10000,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 2.252035467719952,
+        "japd": 3.3266351565555867,
+        "raw_median": 0.0018729782640824445,
+        "raw_q95": 0.06286563405645135,
+        "rdsc": 0.04402475774148062,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.7438065324827847,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.045608478116302795
+      },
+      "id": "independent:f02__nonfem__06",
+      "index": 6,
+      "pairs": 10144,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 4.390687362063232,
+        "japd": 32.206268050617055,
+        "raw_median": 0.005861971808489686,
+        "raw_q95": 0.045608203754622094,
+        "rdsc": 0.023568493984360714,
+        "transfer": [
+          0.5069277363348039,
+          0.5069277363348039
+        ]
+      },
+      "sequence": "f02__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.7438065324827847,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.04122447274903342
+      },
+      "id": "inherit_global:f02__nonfem__06",
+      "index": 6,
+      "pairs": 10144,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.621769772806403,
+        "japd": 4.408984286804073,
+        "raw_median": 0.0010414118683507716,
+        "raw_q95": 0.041224224759710014,
+        "rdsc": 0.015628625813838046,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.71413378303438,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.04181659378615746
+      },
+      "id": "independent:f02__nonfem__07",
+      "index": 7,
+      "pairs": 10189,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.2847629550228366,
+        "japd": 18.730725498892745,
+        "raw_median": 0.004063134519443122,
+        "raw_q95": 0.041816821943632156,
+        "rdsc": 0.02322817048796411,
+        "transfer": [
+          0.5020409597351347,
+          0.5020409597351347
+        ]
+      },
+      "sequence": "f02__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.71413378303438,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.034734608287830815
+      },
+      "id": "inherit_global:f02__nonfem__07",
+      "index": 7,
+      "pairs": 10189,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.079756186770832,
+        "japd": 2.833285061632856,
+        "raw_median": 0.0009508947083796705,
+        "raw_q95": 0.03473479780495294,
+        "rdsc": 0.014675331124012548,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.6405243245558006,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.027092549659920168
+      },
+      "id": "independent:f02__nonfem__08",
+      "index": 8,
+      "pairs": 10235,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.3353737925391753,
+        "japd": 29.36024402988684,
+        "raw_median": 0.003466409021061995,
+        "raw_q95": 0.027092773911343074,
+        "rdsc": 0.013391016176843832,
+        "transfer": [
+          0.4992797317733832,
+          0.4992797317733832
+        ]
+      },
+      "sequence": "f02__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.6405243245558006,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.023942626285111974
+      },
+      "id": "inherit_global:f02__nonfem__08",
+      "index": 8,
+      "pairs": 10235,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.4505116096439377,
+        "japd": 5.452741016276677,
+        "raw_median": 1.2697372539864877e-08,
+        "raw_q95": 0.023942824463876244,
+        "rdsc": 0.010808511757922506,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f02__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4538288695032295,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.024597720037791187
+      },
+      "id": "independent:f03__static__00",
+      "index": 0,
+      "pairs": 10601,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.8206792413666673,
+        "japd": 6.240172607509921,
+        "raw_median": 0.00028170414421406015,
+        "raw_q95": 0.02459776276909764,
+        "rdsc": 0.006006894827723599,
+        "transfer": [
+          0.49948443283924265,
+          0.49948503718016307
+        ]
+      },
+      "sequence": "f03__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4538288695032295,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.02475262440405813
+      },
+      "id": "inherit_global:f03__static__00",
+      "index": 0,
+      "pairs": 10601,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 5.9492024435263815,
+        "japd": 7.197498599977971,
+        "raw_median": 4.9812910310382834e-09,
+        "raw_q95": 0.024752667404465377,
+        "rdsc": 0.00621449298138008,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.594189904273449,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03916238017616915
+      },
+      "id": "independent:f03__static__01",
+      "index": 1,
+      "pairs": 10632,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.4886766267163027,
+        "japd": 4.924644921985374,
+        "raw_median": 0.0007567089692481703,
+        "raw_q95": 0.03916248950476767,
+        "rdsc": 0.011235375428637052,
+        "transfer": [
+          0.49993932359931875,
+          0.49993932359931875
+        ]
+      },
+      "sequence": "f03__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.594189904273449,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.037041311712115214
+      },
+      "id": "inherit_global:f03__static__01",
+      "index": 1,
+      "pairs": 10632,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.094203041781579,
+        "japd": 2.7370086914072207,
+        "raw_median": 0.0003907676176395543,
+        "raw_q95": 0.03704141511938205,
+        "rdsc": 0.009592766934696342,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.648054629004208,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03946021856650423
+      },
+      "id": "independent:f03__static__02",
+      "index": 2,
+      "pairs": 10458,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.4781428777360275,
+        "japd": 5.330349058615404,
+        "raw_median": 0.0007823747178004251,
+        "raw_q95": 0.0394598179531486,
+        "rdsc": 0.010832986214518413,
+        "transfer": [
+          0.4999999735383449,
+          0.4999999735383449
+        ]
+      },
+      "sequence": "f03__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.648054629004208,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.0384930550572274
+      },
+      "id": "inherit_global:f03__static__02",
+      "index": 2,
+      "pairs": 10458,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.576387741968222,
+        "japd": 2.653684650742697,
+        "raw_median": 0.0004431600220018414,
+        "raw_q95": 0.03849266426283965,
+        "rdsc": 0.01181917835583347,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.547144386458923,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03904655001201952
+      },
+      "id": "independent:f03__static__03",
+      "index": 3,
+      "pairs": 10449,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.699612200363363,
+        "japd": 4.598478411858525,
+        "raw_median": 0.0008688626325016228,
+        "raw_q95": 0.03904648152869134,
+        "rdsc": 0.012300909510474594,
+        "transfer": [
+          0.4998233838527742,
+          0.4998270472970726
+        ]
+      },
+      "sequence": "f03__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.547144386458923,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.038983180440083726
+      },
+      "id": "inherit_global:f03__static__03",
+      "index": 3,
+      "pairs": 10449,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.457310437786974,
+        "japd": 2.8417537710519247,
+        "raw_median": 0.0005320311938225814,
+        "raw_q95": 0.03898311206789878,
+        "rdsc": 0.012967775154818558,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3795627579284093,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03775770213610908
+      },
+      "id": "independent:f03__static__04",
+      "index": 4,
+      "pairs": 10863,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.619733273210222,
+        "japd": 5.979521286336728,
+        "raw_median": 0.0009434822551343595,
+        "raw_q95": 0.03775712907814903,
+        "rdsc": 0.011795903583137422,
+        "transfer": [
+          0.4997503262962281,
+          0.4997503262962281
+        ]
+      },
+      "sequence": "f03__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3795627579284093,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03843597566032125
+      },
+      "id": "inherit_global:f03__static__04",
+      "index": 4,
+      "pairs": 10863,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.634261900932443,
+        "japd": 3.145153624979671,
+        "raw_median": 0.0005374394103752125,
+        "raw_q95": 0.038435392308036595,
+        "rdsc": 0.012205149415014736,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3237115560232158,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.036311626890155976
+      },
+      "id": "independent:f03__static__05",
+      "index": 5,
+      "pairs": 10744,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.5099585720057602,
+        "japd": 3.55143425234927,
+        "raw_median": 0.0009142493995539353,
+        "raw_q95": 0.036311631008373764,
+        "rdsc": 0.011432232467356956,
+        "transfer": [
+          0.49985819212660443,
+          0.49985819212660443
+        ]
+      },
+      "sequence": "f03__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3237115560232158,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.036133167084238624
+      },
+      "id": "inherit_global:f03__static__05",
+      "index": 5,
+      "pairs": 10744,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.5995346304855693,
+        "japd": 2.912907745442257,
+        "raw_median": 0.0007741839811627044,
+        "raw_q95": 0.03613317118221671,
+        "rdsc": 0.011273878917027955,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3561573774264857,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03473536771328875
+      },
+      "id": "independent:f03__static__06",
+      "index": 6,
+      "pairs": 10572,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.8427501708529226,
+        "japd": 7.217530597178118,
+        "raw_median": 0.001250366623777594,
+        "raw_q95": 0.0347354077258532,
+        "rdsc": 0.012868278872351866,
+        "transfer": [
+          0.500288804686104,
+          0.500288804686104
+        ]
+      },
+      "sequence": "f03__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3561573774264857,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03492093496847447
+      },
+      "id": "inherit_global:f03__static__06",
+      "index": 6,
+      "pairs": 10572,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.524794877177438,
+        "japd": 2.997487994038023,
+        "raw_median": 0.0006744779862507158,
+        "raw_q95": 0.034920975194798615,
+        "rdsc": 0.01159056964003093,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.2933862211291,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.0306852968116324
+      },
+      "id": "independent:f03__static__07",
+      "index": 7,
+      "pairs": 10630,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.443880663362124,
+        "japd": 5.932053609039864,
+        "raw_median": 0.001017247399179993,
+        "raw_q95": 0.030685287617519895,
+        "rdsc": 0.01036030975330091,
+        "transfer": [
+          0.500101855302481,
+          0.5001057378278015
+        ]
+      },
+      "sequence": "f03__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.2933862211291,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.031300737557310956
+      },
+      "id": "inherit_global:f03__static__07",
+      "index": 7,
+      "pairs": 10630,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.6671906715396863,
+        "japd": 2.9834582055682795,
+        "raw_median": 0.0006112044011980238,
+        "raw_q95": 0.0313007281787964,
+        "rdsc": 0.010435726860390519,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3059617740646905,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.02165006078933577
+      },
+      "id": "independent:f03__static__08",
+      "index": 8,
+      "pairs": 10552,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.6571442457801964,
+        "japd": 6.735122644965142,
+        "raw_median": 0.0005278151181239764,
+        "raw_q95": 0.021649893962518724,
+        "rdsc": 0.007379374923036399,
+        "transfer": [
+          0.5000198304836401,
+          0.5000198304836401
+        ]
+      },
+      "sequence": "f03__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3059617740646905,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.02209138296937859
+      },
+      "id": "inherit_global:f03__static__08",
+      "index": 8,
+      "pairs": 10552,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.086562342569539,
+        "japd": 6.449907374961311,
+        "raw_median": 9.23148818262473e-09,
+        "raw_q95": 0.02209121274190714,
+        "rdsc": 0.007457824138499577,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4706698842283896,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.02416270772393632
+      },
+      "id": "independent:f03__fem__00",
+      "index": 0,
+      "pairs": 10620,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.660357826727102,
+        "japd": 4.5968207169666675,
+        "raw_median": 0.00019279578539939114,
+        "raw_q95": 0.024162769160796366,
+        "rdsc": 0.005037234446128275,
+        "transfer": [
+          0.4995623326741403,
+          0.49956805388233594
+        ]
+      },
+      "sequence": "f03__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.4706698842283896,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.024081711687382493
+      },
+      "id": "inherit_global:f03__fem__00",
+      "index": 0,
+      "pairs": 10620,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 5.9540876246960845,
+        "japd": 7.204717537301562,
+        "raw_median": 5.321772367892194e-09,
+        "raw_q95": 0.024081772918299472,
+        "rdsc": 0.00506264114613856,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.605703458430049,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03882626823695324
+      },
+      "id": "independent:f03__fem__01",
+      "index": 1,
+      "pairs": 10677,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.6023755582849497,
+        "japd": 6.473490951449555,
+        "raw_median": 0.0009054127683382091,
+        "raw_q95": 0.0388260614593425,
+        "rdsc": 0.010628825233070793,
+        "transfer": [
+          0.5000469816786511,
+          0.5000469816786511
+        ]
+      },
+      "sequence": "f03__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.605703458430049,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03697433295554083
+      },
+      "id": "inherit_global:f03__fem__01",
+      "index": 1,
+      "pairs": 10677,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.195738979142314,
+        "japd": 2.8068211838884776,
+        "raw_median": 0.00042348370382876827,
+        "raw_q95": 0.03697413604080824,
+        "rdsc": 0.009921882299365298,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.652002067908689,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03785011485800451
+      },
+      "id": "independent:f03__fem__02",
+      "index": 2,
+      "pairs": 10374,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.6468439887389295,
+        "japd": 5.473801536598609,
+        "raw_median": 0.0008000848103794599,
+        "raw_q95": 0.03785009788422556,
+        "rdsc": 0.01119050896654065,
+        "transfer": [
+          0.500105806073338,
+          0.500105806073338
+        ]
+      },
+      "sequence": "f03__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.652002067908689,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03789724605115009
+      },
+      "id": "inherit_global:f03__fem__02",
+      "index": 2,
+      "pairs": 10374,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.709205758151001,
+        "japd": 2.7166396304006923,
+        "raw_median": 0.00042891962813680184,
+        "raw_q95": 0.037897229056235285,
+        "rdsc": 0.010942981753934539,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.5516206229472274,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.043593228408539186
+      },
+      "id": "independent:f03__fem__03",
+      "index": 3,
+      "pairs": 10540,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.076421062235512,
+        "japd": 9.89122832879456,
+        "raw_median": 0.001613876299613507,
+        "raw_q95": 0.043593278527728097,
+        "rdsc": 0.016076263305202083,
+        "transfer": [
+          0.5002655735675232,
+          0.5002676558493023
+        ]
+      },
+      "sequence": "f03__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.5516206229472274,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.04341594584298929
+      },
+      "id": "inherit_global:f03__fem__03",
+      "index": 3,
+      "pairs": 10540,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.494522070618803,
+        "japd": 2.9671559382821373,
+        "raw_median": 0.0005338958731222451,
+        "raw_q95": 0.04341599575835621,
+        "rdsc": 0.01613398366417082,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.380636455358574,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.047681087812881585
+      },
+      "id": "independent:f03__fem__04",
+      "index": 4,
+      "pairs": 10812,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.104243566067961,
+        "japd": 18.69803980201916,
+        "raw_median": 0.002460624048953277,
+        "raw_q95": 0.0476811112495471,
+        "rdsc": 0.018085754997626883,
+        "transfer": [
+          0.5025421399545655,
+          0.5025452753302697
+        ]
+      },
+      "sequence": "f03__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.380636455358574,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.042821316631136086
+      },
+      "id": "inherit_global:f03__fem__04",
+      "index": 4,
+      "pairs": 10812,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.2267094106575698,
+        "japd": 3.4961778119722737,
+        "raw_median": 0.0007604155177921451,
+        "raw_q95": 0.04282133767908027,
+        "rdsc": 0.01692060304252746,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.335639636659919,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.04601471937774089
+      },
+      "id": "independent:f03__fem__05",
+      "index": 5,
+      "pairs": 10754,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.901190583596854,
+        "japd": 17.538764480458404,
+        "raw_median": 0.0029724210259179785,
+        "raw_q95": 0.046014937435636956,
+        "rdsc": 0.022584862809649903,
+        "transfer": [
+          0.5009324090507994,
+          0.5009324090507994
+        ]
+      },
+      "sequence": "f03__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.335639636659919,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03858831967643391
+      },
+      "id": "inherit_global:f03__fem__05",
+      "index": 5,
+      "pairs": 10754,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.042218823314916,
+        "japd": 3.431300735779327,
+        "raw_median": 0.0009579346835531088,
+        "raw_q95": 0.0385885025415674,
+        "rdsc": 0.013908896247559858,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.36476477475809,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03734642773707829
+      },
+      "id": "independent:f03__fem__06",
+      "index": 6,
+      "pairs": 10559,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.322294472322474,
+        "japd": 12.70973290064641,
+        "raw_median": 0.0017885435293634993,
+        "raw_q95": 0.03734643208164209,
+        "rdsc": 0.013806464382491737,
+        "transfer": [
+          0.5014062773813446,
+          0.5014084334742102
+        ]
+      },
+      "sequence": "f03__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.36476477475809,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03742454221045692
+      },
+      "id": "inherit_global:f03__fem__06",
+      "index": 6,
+      "pairs": 10559,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.619332321526435,
+        "japd": 3.6020018958910787,
+        "raw_median": 0.0007153962866719722,
+        "raw_q95": 0.0374245465641079,
+        "rdsc": 0.013112239659956539,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.310153988254437,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.039244843136125564
+      },
+      "id": "independent:f03__fem__07",
+      "index": 7,
+      "pairs": 10583,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.8699216227327944,
+        "japd": 13.321089407025427,
+        "raw_median": 0.002476301991967992,
+        "raw_q95": 0.03924476588278668,
+        "rdsc": 0.015903488803615362,
+        "transfer": [
+          0.5013150320038009,
+          0.501317619511797
+        ]
+      },
+      "sequence": "f03__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.310153988254437,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.030395542663153526
+      },
+      "id": "inherit_global:f03__fem__07",
+      "index": 7,
+      "pairs": 10583,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 2.9267325408209213,
+        "japd": 3.35821259050761,
+        "raw_median": 0.0007229672700933354,
+        "raw_q95": 0.03039548282963222,
+        "rdsc": 0.009417806341791603,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3101458381621116,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.027363862546506544
+      },
+      "id": "independent:f03__fem__08",
+      "index": 8,
+      "pairs": 10472,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.9281585506852186,
+        "japd": 21.73323897394903,
+        "raw_median": 0.002601832596954007,
+        "raw_q95": 0.027363865456986124,
+        "rdsc": 0.011961052321150314,
+        "transfer": [
+          0.501777200906161,
+          0.5017847080158798
+        ]
+      },
+      "sequence": "f03__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3101458381621116,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.023651567581000312
+      },
+      "id": "inherit_global:f03__fem__08",
+      "index": 8,
+      "pairs": 10472,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.4086210579489453,
+        "japd": 4.596052754805953,
+        "raw_median": 8.41226390271184e-09,
+        "raw_q95": 0.023651570096632175,
+        "rdsc": 0.007844544795139047,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.433570372085578,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.025130850804066032
+      },
+      "id": "independent:f03__nonfem__00",
+      "index": 0,
+      "pairs": 10627,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.7311246184281557,
+        "japd": 6.688423568800772,
+        "raw_median": 0.00028780201546539023,
+        "raw_q95": 0.025130713860956184,
+        "rdsc": 0.006157368148517027,
+        "transfer": [
+          0.4997371158170937,
+          0.4997400238497193
+        ]
+      },
+      "sequence": "f03__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.433570372085578,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.02516185902169637
+      },
+      "id": "inherit_global:f03__nonfem__00",
+      "index": 0,
+      "pairs": 10627,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 5.9460781062083035,
+        "japd": 6.635765128837714,
+        "raw_median": 5.046279506079276e-09,
+        "raw_q95": 0.02516172190961644,
+        "rdsc": 0.006124026109833669,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.5433366282056333,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03886865509204978
+      },
+      "id": "independent:f03__nonfem__01",
+      "index": 1,
+      "pairs": 10577,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.602750774415407,
+        "japd": 8.637193482890273,
+        "raw_median": 0.0013419364797395085,
+        "raw_q95": 0.03886864200579774,
+        "rdsc": 0.014774923363374276,
+        "transfer": [
+          0.5000274383857785,
+          0.5000274383857785
+        ]
+      },
+      "sequence": "f03__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.5433366282056333,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.037830894843556034
+      },
+      "id": "inherit_global:f03__nonfem__01",
+      "index": 1,
+      "pairs": 10577,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.162687037688942,
+        "japd": 2.813902789723175,
+        "raw_median": 0.0004011048644220599,
+        "raw_q95": 0.03783088210669587,
+        "rdsc": 0.011850728855945758,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.6262746314350256,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.0398592245232171
+      },
+      "id": "independent:f03__nonfem__02",
+      "index": 2,
+      "pairs": 10348,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.6722114023055568,
+        "japd": 4.493609993485143,
+        "raw_median": 0.0007604942104719127,
+        "raw_q95": 0.039859292717932544,
+        "rdsc": 0.014575328317311804,
+        "transfer": [
+          0.5000908460789922,
+          0.5000948315434295
+        ]
+      },
+      "sequence": "f03__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.6262746314350256,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.039505992636137764
+      },
+      "id": "inherit_global:f03__nonfem__02",
+      "index": 2,
+      "pairs": 10348,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.646775957299993,
+        "japd": 2.6106679256363345,
+        "raw_median": 0.00044023480656714496,
+        "raw_q95": 0.0395060602265126,
+        "rdsc": 0.016123346014875018,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.479132269623487,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.058796246721158275
+      },
+      "id": "independent:f03__nonfem__03",
+      "index": 3,
+      "pairs": 10371,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.7696338690261175,
+        "japd": 15.237244968331877,
+        "raw_median": 0.002590160626307522,
+        "raw_q95": 0.058796480960726434,
+        "rdsc": 0.05954500186294843,
+        "transfer": [
+          0.5003012660709961,
+          0.5003012660709961
+        ]
+      },
+      "sequence": "f03__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.479132269623487,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.05786909533031642
+      },
+      "id": "inherit_global:f03__nonfem__03",
+      "index": 3,
+      "pairs": 10371,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.65690773694215,
+        "japd": 3.29631364231031,
+        "raw_median": 0.0005094451449452756,
+        "raw_q95": 0.057869325876187226,
+        "rdsc": 0.05419925322178682,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.285886907650843,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.10078152091294747
+      },
+      "id": "independent:f03__nonfem__04",
+      "index": 4,
+      "pairs": 10095,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.2403203295327097,
+        "japd": 11.292727496377886,
+        "raw_median": 0.005899134615871518,
+        "raw_q95": 0.10078240295338321,
+        "rdsc": 0.06642479330852032,
+        "transfer": [
+          0.5008665325541272,
+          0.5008695163341573
+        ]
+      },
+      "sequence": "f03__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.285886907650843,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.07482027014841557
+      },
+      "id": "inherit_global:f03__nonfem__04",
+      "index": 4,
+      "pairs": 10095,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 2.086699058157105,
+        "japd": 3.2283454098928295,
+        "raw_median": 0.0020223606934101556,
+        "raw_q95": 0.07482092497583916,
+        "rdsc": 0.029914080631376523,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.369155403602979,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.08607863303198672
+      },
+      "id": "independent:f03__nonfem__05",
+      "index": 5,
+      "pairs": 9869,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.450010471856588,
+        "japd": 32.426060164334075,
+        "raw_median": 0.013453798705082901,
+        "raw_q95": 0.08607896485417357,
+        "rdsc": 0.06978654379677518,
+        "transfer": [
+          0.5082432602255712,
+          0.5084582239686783
+        ]
+      },
+      "sequence": "f03__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.369155403602979,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.07069863513950245
+      },
+      "id": "inherit_global:f03__nonfem__05",
+      "index": 5,
+      "pairs": 9869,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 2.1533183797452327,
+        "japd": 3.431681578201284,
+        "raw_median": 0.0025955444571923287,
+        "raw_q95": 0.07069890767375273,
+        "rdsc": 0.035838519661460504,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.555959585304698,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.05112520096939005
+      },
+      "id": "independent:f03__nonfem__06",
+      "index": 6,
+      "pairs": 10411,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 4.44791587300922,
+        "japd": 21.499856241190805,
+        "raw_median": 0.004391081614547854,
+        "raw_q95": 0.05112498795975048,
+        "rdsc": 0.03254074129987822,
+        "transfer": [
+          0.5046038159910595,
+          0.5046038159910595
+        ]
+      },
+      "sequence": "f03__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.555959585304698,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.04865206299471745
+      },
+      "id": "inherit_global:f03__nonfem__06",
+      "index": 6,
+      "pairs": 10411,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.082726703878004,
+        "japd": 4.301280465768255,
+        "raw_median": 0.0003785732331067339,
+        "raw_q95": 0.04865186028923743,
+        "rdsc": 0.025377266632146428,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.574144713078386,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.0515267733158036
+      },
+      "id": "independent:f03__nonfem__07",
+      "index": 7,
+      "pairs": 10698,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.824009186218708,
+        "japd": 24.96301480606624,
+        "raw_median": 0.004549731706790393,
+        "raw_q95": 0.0515270496005594,
+        "rdsc": 0.03277465253338268,
+        "transfer": [
+          0.5028596129325316,
+          0.5028619111715839
+        ]
+      },
+      "sequence": "f03__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.574144713078386,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.0390179874808396
+      },
+      "id": "inherit_global:f03__nonfem__07",
+      "index": 7,
+      "pairs": 10698,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 2.5625220729156624,
+        "japd": 2.756373684417392,
+        "raw_median": 0.0003604473966512543,
+        "raw_q95": 0.03901819669392338,
+        "rdsc": 0.01703426617692943,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.6137090271514802,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03301416852105438
+      },
+      "id": "independent:f03__nonfem__08",
+      "index": 8,
+      "pairs": 10582,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.6289355966629624,
+        "japd": 40.045635245877534,
+        "raw_median": 0.004816992242346229,
+        "raw_q95": 0.033014431399788824,
+        "rdsc": 0.012634420835836048,
+        "transfer": [
+          0.49609748090631106,
+          0.49609748090631106
+        ]
+      },
+      "sequence": "f03__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.6137090271514802,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.024268952745459992
+      },
+      "id": "inherit_global:f03__nonfem__08",
+      "index": 8,
+      "pairs": 10582,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 2.7752145445375858,
+        "japd": 3.4995394871486756,
+        "raw_median": 7.1035563856422e-09,
+        "raw_q95": 0.02426914598950853,
+        "rdsc": 0.007486863284622873,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f03__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.677176017575941,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.0361583361276054
+      },
+      "id": "independent:f04__static__00",
+      "index": 0,
+      "pairs": 9917,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.4426387224462354,
+        "japd": 6.379410118119582,
+        "raw_median": 0.0003160173864240339,
+        "raw_q95": 0.036158309524006844,
+        "rdsc": 0.014776924129501181,
+        "transfer": [
+          0.4998562729909027,
+          0.4998562729909027
+        ]
+      },
+      "sequence": "f04__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.677176017575941,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03432332128808986
+      },
+      "id": "inherit_global:f04__static__00",
+      "index": 0,
+      "pairs": 9917,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 8.228803557918969,
+        "japd": 4.281279899746154,
+        "raw_median": 4.925952580477179e-09,
+        "raw_q95": 0.034323296034608694,
+        "rdsc": 0.013740386205940192,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.5821726591650433,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.036451756986160086
+      },
+      "id": "independent:f04__static__01",
+      "index": 1,
+      "pairs": 10307,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.637466784912007,
+        "japd": 4.457543596362661,
+        "raw_median": 0.0006647951377933153,
+        "raw_q95": 0.03645162470906707,
+        "rdsc": 0.014525075866467849,
+        "transfer": [
+          0.49980776178479536,
+          0.499825815493505
+        ]
+      },
+      "sequence": "f04__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.5821726591650433,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03692675243736553
+      },
+      "id": "inherit_global:f04__static__01",
+      "index": 1,
+      "pairs": 10307,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 5.936255580035349,
+        "japd": 2.627912553221533,
+        "raw_median": 0.00034155331828951706,
+        "raw_q95": 0.03692661843659655,
+        "rdsc": 0.015008911296026934,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.358913964661542,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03686377426731457
+      },
+      "id": "independent:f04__static__02",
+      "index": 2,
+      "pairs": 11135,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.750671854653819,
+        "japd": 6.778885729406584,
+        "raw_median": 0.0009576618263560865,
+        "raw_q95": 0.03686152211965915,
+        "rdsc": 0.012101626640126775,
+        "transfer": [
+          0.4998559704850361,
+          0.4998559704850361
+        ]
+      },
+      "sequence": "f04__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.358913964661542,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.034857038936589896
+      },
+      "id": "inherit_global:f04__static__02",
+      "index": 2,
+      "pairs": 11135,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.091519115276732,
+        "japd": 2.9210838050945003,
+        "raw_median": 0.00048209444796544623,
+        "raw_q95": 0.03485490938799982,
+        "rdsc": 0.010655351446847818,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.2855085128615324,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03403996407568691
+      },
+      "id": "independent:f04__static__03",
+      "index": 3,
+      "pairs": 10913,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.7195317074488727,
+        "japd": 7.321435355393478,
+        "raw_median": 0.0009965937588568173,
+        "raw_q95": 0.0340399434011927,
+        "rdsc": 0.012248008464116335,
+        "transfer": [
+          0.49999758543166345,
+          0.49999758543166345
+        ]
+      },
+      "sequence": "f04__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.2855085128615324,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03376598028338288
+      },
+      "id": "inherit_global:f04__static__03",
+      "index": 3,
+      "pairs": 10913,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.653126500318926,
+        "japd": 3.0724696707278585,
+        "raw_median": 0.0005072482408127548,
+        "raw_q95": 0.03376595977529531,
+        "rdsc": 0.010270679390526142,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3083915064244698,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03249297203579948
+      },
+      "id": "independent:f04__static__04",
+      "index": 4,
+      "pairs": 10791,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.6633123980331828,
+        "japd": 6.68589432004674,
+        "raw_median": 0.0009508484191639347,
+        "raw_q95": 0.03249285747827366,
+        "rdsc": 0.00826319216131075,
+        "transfer": [
+          0.4999229346982271,
+          0.4999229346982271
+        ]
+      },
+      "sequence": "f04__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3083915064244698,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03310669717388259
+      },
+      "id": "inherit_global:f04__static__04",
+      "index": 4,
+      "pairs": 10791,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.022068950589153,
+        "japd": 2.9983377098323007,
+        "raw_median": 0.0005243678435786151,
+        "raw_q95": 0.03310658045260168,
+        "rdsc": 0.007900939485205712,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3323580776307256,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03550113935111045
+      },
+      "id": "independent:f04__static__05",
+      "index": 5,
+      "pairs": 10649,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.699930021149516,
+        "japd": 6.4838415296819,
+        "raw_median": 0.0010017083548080998,
+        "raw_q95": 0.03549912092612053,
+        "rdsc": 0.010210690633502434,
+        "transfer": [
+          0.5000810500031003,
+          0.5000810500031003
+        ]
+      },
+      "sequence": "f04__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3323580776307256,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03514385780168654
+      },
+      "id": "inherit_global:f04__static__05",
+      "index": 5,
+      "pairs": 10649,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.434821124246959,
+        "japd": 2.758571062761994,
+        "raw_median": 0.0005017999566437639,
+        "raw_q95": 0.03514185969001673,
+        "rdsc": 0.009889942381382702,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3013323444457825,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03254769793487185
+      },
+      "id": "independent:f04__static__06",
+      "index": 6,
+      "pairs": 10412,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.660017191301666,
+        "japd": 5.314443342124411,
+        "raw_median": 0.0008928749221226414,
+        "raw_q95": 0.032547817627701946,
+        "rdsc": 0.012219999213256888,
+        "transfer": [
+          0.4996955980173763,
+          0.49970256215542336
+        ]
+      },
+      "sequence": "f04__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3013323444457825,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.0322647487515499
+      },
+      "id": "inherit_global:f04__static__06",
+      "index": 6,
+      "pairs": 10412,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.753738275527394,
+        "japd": 2.656490254841409,
+        "raw_median": 0.00036156809891087113,
+        "raw_q95": 0.03226486740384593,
+        "rdsc": 0.01134349626666775,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.2605436455033137,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03126369078635855
+      },
+      "id": "independent:f04__static__07",
+      "index": 7,
+      "pairs": 10470,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.0712528373885317,
+        "japd": 6.728301430650269,
+        "raw_median": 0.0010702391377788048,
+        "raw_q95": 0.031263761117489505,
+        "rdsc": 0.012871309009455538,
+        "transfer": [
+          0.5001701334379982,
+          0.5001701334379982
+        ]
+      },
+      "sequence": "f04__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.2605436455033137,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.031013543392205363
+      },
+      "id": "inherit_global:f04__static__07",
+      "index": 7,
+      "pairs": 10470,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.146103073950383,
+        "japd": 2.853921162417447,
+        "raw_median": 0.0004423225559086356,
+        "raw_q95": 0.031013613160602076,
+        "rdsc": 0.0131335398507985,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.2484270888168636,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.019264149756303625
+      },
+      "id": "independent:f04__static__08",
+      "index": 8,
+      "pairs": 10724,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.121840534665479,
+        "japd": 8.848748350507282,
+        "raw_median": 0.0006607120708730453,
+        "raw_q95": 0.019263782959297922,
+        "rdsc": 0.00499696561497936,
+        "transfer": [
+          0.4997867223221881,
+          0.4997867223221881
+        ]
+      },
+      "sequence": "f04__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.2484270888168636,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.019567699942076293
+      },
+      "id": "inherit_global:f04__static__08",
+      "index": 8,
+      "pairs": 10724,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.607161846354131,
+        "japd": 5.66339900442596,
+        "raw_median": 8.812308045906961e-09,
+        "raw_q95": 0.019567327365355384,
+        "rdsc": 0.004927486963209475,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__static"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.6937341155219405,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.037659044153321636
+      },
+      "id": "independent:f04__fem__00",
+      "index": 0,
+      "pairs": 9928,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.4645689386131573,
+        "japd": 6.346749187870001,
+        "raw_median": 0.0003211796695660882,
+        "raw_q95": 0.03765886390124155,
+        "rdsc": 0.014084975215753985,
+        "transfer": [
+          0.4996685981000908,
+          0.4996685981000908
+        ]
+      },
+      "sequence": "f04__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.6937341155219405,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03657742548394578
+      },
+      "id": "inherit_global:f04__fem__00",
+      "index": 0,
+      "pairs": 9928,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 8.230353299197612,
+        "japd": 4.093903641353145,
+        "raw_median": 4.760322212536704e-09,
+        "raw_q95": 0.03657725040894917,
+        "rdsc": 0.01440812790726431,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.605468318549824,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.037169547880207786
+      },
+      "id": "independent:f04__fem__01",
+      "index": 1,
+      "pairs": 10257,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.628228647415962,
+        "japd": 3.3667819550279634,
+        "raw_median": 0.0005583083899012408,
+        "raw_q95": 0.03716986835028543,
+        "rdsc": 0.01773642010053884,
+        "transfer": [
+          0.5002414564232358,
+          0.5002474868634115
+        ]
+      },
+      "sequence": "f04__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.605468318549824,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03688637516710145
+      },
+      "id": "inherit_global:f04__fem__01",
+      "index": 1,
+      "pairs": 10257,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 5.867117093000555,
+        "japd": 2.5645404964938288,
+        "raw_median": 0.00032753648274939923,
+        "raw_q95": 0.03688669319570788,
+        "rdsc": 0.017817963728579342,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.378841350228284,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03470099567393003
+      },
+      "id": "independent:f04__fem__02",
+      "index": 2,
+      "pairs": 11091,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.94233149251104,
+        "japd": 6.353221702487499,
+        "raw_median": 0.001069562063593005,
+        "raw_q95": 0.034700916545036604,
+        "rdsc": 0.012724067899659184,
+        "transfer": [
+          0.5002335312428215,
+          0.5002335312428215
+        ]
+      },
+      "sequence": "f04__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.378841350228284,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.0351336539913856
+      },
+      "id": "inherit_global:f04__fem__02",
+      "index": 2,
+      "pairs": 11091,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.279659902432487,
+        "japd": 2.9382131565258383,
+        "raw_median": 0.0005030499245262982,
+        "raw_q95": 0.03513357387589876,
+        "rdsc": 0.012401251317338848,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.299447732271478,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.034419587996156416
+      },
+      "id": "independent:f04__fem__03",
+      "index": 3,
+      "pairs": 10920,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.8053026238891734,
+        "japd": 8.064712850376932,
+        "raw_median": 0.0010762054497381898,
+        "raw_q95": 0.03441962639638444,
+        "rdsc": 0.010289369841145214,
+        "transfer": [
+          0.5000324025149441,
+          0.5000324025149441
+        ]
+      },
+      "sequence": "f04__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.299447732271478,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.033442712741077914
+      },
+      "id": "inherit_global:f04__fem__03",
+      "index": 3,
+      "pairs": 10920,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.6768423893036233,
+        "japd": 3.1757516706286366,
+        "raw_median": 0.0004936576957186169,
+        "raw_q95": 0.03344275005145464,
+        "rdsc": 0.009787556599971133,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.2946246978526266,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03398030899181267
+      },
+      "id": "independent:f04__fem__04",
+      "index": 4,
+      "pairs": 10713,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 2.9124421337936575,
+        "japd": 12.772399586844397,
+        "raw_median": 0.0014869605689264694,
+        "raw_q95": 0.03397993811561793,
+        "rdsc": 0.01509073171690164,
+        "transfer": [
+          0.501636416472709,
+          0.501636416472709
+        ]
+      },
+      "sequence": "f04__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.2946246978526266,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03217311130038142
+      },
+      "id": "inherit_global:f04__fem__04",
+      "index": 4,
+      "pairs": 10713,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.729228866984893,
+        "japd": 3.2465012556872646,
+        "raw_median": 0.0005902521751873506,
+        "raw_q95": 0.03217276014874549,
+        "rdsc": 0.01368030702238369,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.334839495292948,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.0369377778324218
+      },
+      "id": "independent:f04__fem__05",
+      "index": 5,
+      "pairs": 10593,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.357732737833937,
+        "japd": 11.313889217754056,
+        "raw_median": 0.0014060476100170578,
+        "raw_q95": 0.036937809946646125,
+        "rdsc": 0.01382185350536652,
+        "transfer": [
+          0.4996963448265896,
+          0.4996963448265896
+        ]
+      },
+      "sequence": "f04__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.334839495292948,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.034308339948414514
+      },
+      "id": "inherit_global:f04__fem__05",
+      "index": 5,
+      "pairs": 10593,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.144085486025567,
+        "japd": 2.9997177337385255,
+        "raw_median": 0.0005027282803747544,
+        "raw_q95": 0.0343083697765685,
+        "rdsc": 0.00983255460852738,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3032898116435745,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03135323850016518
+      },
+      "id": "independent:f04__fem__06",
+      "index": 6,
+      "pairs": 10484,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.507832785637186,
+        "japd": 10.186848212747242,
+        "raw_median": 0.0012116507563145868,
+        "raw_q95": 0.031352900710492695,
+        "rdsc": 0.009633610507058903,
+        "transfer": [
+          0.5008474088549425,
+          0.5008474088549425
+        ]
+      },
+      "sequence": "f04__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3032898116435745,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.031459113249145354
+      },
+      "id": "inherit_global:f04__fem__06",
+      "index": 6,
+      "pairs": 10484,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.702518959211327,
+        "japd": 3.0155554493533603,
+        "raw_median": 0.0002380360080192135,
+        "raw_q95": 0.03145877431881249,
+        "rdsc": 0.010018448717116126,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.251965839489583,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03119260797144912
+      },
+      "id": "independent:f04__fem__07",
+      "index": 7,
+      "pairs": 10437,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.3997733818677793,
+        "japd": 10.088789233004904,
+        "raw_median": 0.001561971802571004,
+        "raw_q95": 0.031192017278655105,
+        "rdsc": 0.013848172046956911,
+        "transfer": [
+          0.500341800544844,
+          0.5003606091224131
+        ]
+      },
+      "sequence": "f04__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.251965839489583,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.029664771242532056
+      },
+      "id": "inherit_global:f04__fem__07",
+      "index": 7,
+      "pairs": 10437,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.169521820692081,
+        "japd": 2.9228595661265104,
+        "raw_median": 0.0004297756899034196,
+        "raw_q95": 0.029664209482302677,
+        "rdsc": 0.011894688256017258,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.261100591011108,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.02387806688043936
+      },
+      "id": "independent:f04__fem__08",
+      "index": 8,
+      "pairs": 10637,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.52708339056806,
+        "japd": 22.22079920482731,
+        "raw_median": 0.001685192935013788,
+        "raw_q95": 0.023878103789247162,
+        "rdsc": 0.012001419151873357,
+        "transfer": [
+          0.5010914005224393,
+          0.5010914005224393
+        ]
+      },
+      "sequence": "f04__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.261100591011108,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.02095470365890972
+      },
+      "id": "inherit_global:f04__fem__08",
+      "index": 8,
+      "pairs": 10637,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.503404778947893,
+        "japd": 7.925556083871867,
+        "raw_median": 1.0134308190822923e-08,
+        "raw_q95": 0.02095473604901624,
+        "rdsc": 0.007731913110112841,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__fem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.696624906908096,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.037530172196929265
+      },
+      "id": "independent:f04__nonfem__00",
+      "index": 0,
+      "pairs": 9907,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.173418516710181,
+        "japd": 7.523675912440111,
+        "raw_median": 0.00035909689899333127,
+        "raw_q95": 0.03753012651887656,
+        "rdsc": 0.014599496747390592,
+        "transfer": [
+          0.49999204410655207,
+          0.4999984379819488
+        ]
+      },
+      "sequence": "f04__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.696624906908096,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03733283300125772
+      },
+      "id": "inherit_global:f04__nonfem__00",
+      "index": 0,
+      "pairs": 9907,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 8.260023837181532,
+        "japd": 4.105501747816707,
+        "raw_median": 4.731499452847188e-09,
+        "raw_q95": 0.03733278756338696,
+        "rdsc": 0.01364030103147056,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.591618899984337,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.0378553737065152
+      },
+      "id": "independent:f04__nonfem__01",
+      "index": 1,
+      "pairs": 10249,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.184251962630012,
+        "japd": 6.6648746079208765,
+        "raw_median": 0.0008781757205517081,
+        "raw_q95": 0.037855526666481586,
+        "rdsc": 0.015315883685324869,
+        "transfer": [
+          0.5000409016942372,
+          0.5000486913890835
+        ]
+      },
+      "sequence": "f04__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.591618899984337,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.038429422870230344
+      },
+      "id": "inherit_global:f04__nonfem__01",
+      "index": 1,
+      "pairs": 10249,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 5.9937582732733095,
+        "japd": 2.7645275656430095,
+        "raw_median": 0.00032890794841168754,
+        "raw_q95": 0.03842957814972319,
+        "rdsc": 0.015861531573356926,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.363291032658629,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.04052752794328154
+      },
+      "id": "independent:f04__nonfem__02",
+      "index": 2,
+      "pairs": 10995,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.184386018684373,
+        "japd": 9.060045675357427,
+        "raw_median": 0.0010064356210947678,
+        "raw_q95": 0.04052752128411064,
+        "rdsc": 0.013199473040577768,
+        "transfer": [
+          0.4998764435794818,
+          0.4998764435794818
+        ]
+      },
+      "sequence": "f04__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.363291032658629,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.04052483414208614
+      },
+      "id": "inherit_global:f04__nonfem__02",
+      "index": 2,
+      "pairs": 10995,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.379526868347683,
+        "japd": 3.0807066895908752,
+        "raw_median": 0.00048225852754778053,
+        "raw_q95": 0.04052482748335787,
+        "rdsc": 0.01373308865326526,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.269847121688023,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.05394505157443731
+      },
+      "id": "independent:f04__nonfem__03",
+      "index": 3,
+      "pairs": 10805,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.759034451628253,
+        "japd": 20.894383653553856,
+        "raw_median": 0.002221227489295146,
+        "raw_q95": 0.05394525942265946,
+        "rdsc": 0.0707405346383009,
+        "transfer": [
+          0.5013290547499348,
+          0.5013371490141202
+        ]
+      },
+      "sequence": "f04__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.269847121688023,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.048058797369878295
+      },
+      "id": "inherit_global:f04__nonfem__03",
+      "index": 3,
+      "pairs": 10805,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.8744274238032506,
+        "japd": 3.6558719740490764,
+        "raw_median": 0.0005494880360000599,
+        "raw_q95": 0.04805898253858795,
+        "rdsc": 0.04975604464481632,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3041688092687025,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.06742584665812297
+      },
+      "id": "independent:f04__nonfem__04",
+      "index": 4,
+      "pairs": 10548,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.4653714598344814,
+        "japd": 37.32600781313241,
+        "raw_median": 0.008631670505215558,
+        "raw_q95": 0.06742551641846486,
+        "rdsc": 0.04029318073507392,
+        "transfer": [
+          0.5071663919216969,
+          0.5071899523243395
+        ]
+      },
+      "sequence": "f04__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3041688092687025,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.0563877638131401
+      },
+      "id": "inherit_global:f04__nonfem__04",
+      "index": 4,
+      "pairs": 10548,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 2.734045079738592,
+        "japd": 3.4071089517424835,
+        "raw_median": 0.0015065178165858699,
+        "raw_q95": 0.05638748763602455,
+        "rdsc": 0.036872038460715385,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3921059726538836,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.07109955566411831
+      },
+      "id": "independent:f04__nonfem__05",
+      "index": 5,
+      "pairs": 10381,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.5165080435342397,
+        "japd": 19.76747198728034,
+        "raw_median": 0.006063174960871615,
+        "raw_q95": 0.07109993948042448,
+        "rdsc": 0.06930647453635651,
+        "transfer": [
+          0.5010228077259875,
+          0.501041972975281
+        ]
+      },
+      "sequence": "f04__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3921059726538836,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.05701080089553278
+      },
+      "id": "inherit_global:f04__nonfem__05",
+      "index": 5,
+      "pairs": 10381,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.2156792357522685,
+        "japd": 3.3855089155261875,
+        "raw_median": 0.001419161789197328,
+        "raw_q95": 0.05701110865659833,
+        "rdsc": 0.03964611435483343,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.361133426338939,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.0465621659943803
+      },
+      "id": "independent:f04__nonfem__06",
+      "index": 6,
+      "pairs": 10439,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 5.351459550770266,
+        "japd": 34.007884754290444,
+        "raw_median": 0.005481290315759593,
+        "raw_q95": 0.04656244746444091,
+        "rdsc": 0.028150954595824854,
+        "transfer": [
+          0.506694571922342,
+          0.506694571922342
+        ]
+      },
+      "sequence": "f04__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.361133426338939,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.043845448112152234
+      },
+      "id": "inherit_global:f04__nonfem__06",
+      "index": 6,
+      "pairs": 10439,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 4.683140821981771,
+        "japd": 3.264566609932743,
+        "raw_median": 0.0002663086458211824,
+        "raw_q95": 0.04384571315955013,
+        "rdsc": 0.02679732027960574,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3490299272805495,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.052160049165866196
+      },
+      "id": "independent:f04__nonfem__07",
+      "index": 7,
+      "pairs": 10566,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 4.126248627728076,
+        "japd": 26.460900833027004,
+        "raw_median": 0.004892941942777755,
+        "raw_q95": 0.05215980025876726,
+        "rdsc": 0.05780029276063958,
+        "transfer": [
+          0.5054195461103149,
+          0.5054195461103149
+        ]
+      },
+      "sequence": "f04__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3490299272805495,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.034300859160547696
+      },
+      "id": "inherit_global:f04__nonfem__07",
+      "index": 7,
+      "pairs": 10566,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.580929945177949,
+        "japd": 2.627837714425861,
+        "raw_median": 0.0003732736155845442,
+        "raw_q95": 0.03430069547727896,
+        "rdsc": 0.019235765824001366,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3750918141947386,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.03121792825732768
+      },
+      "id": "independent:f04__nonfem__08",
+      "index": 8,
+      "pairs": 10765,
+      "reasons": {},
+      "regime": "independent",
+      "scores": {
+        "edge": 3.74923251885427,
+        "japd": 40.667343674380916,
+        "raw_median": 0.004507431641793398,
+        "raw_q95": 0.03121782002106407,
+        "rdsc": 0.020174753262228097,
+        "transfer": [
+          0.5029221705449499,
+          0.5029234138512976
+        ]
+      },
+      "sequence": "f04__nonfem"
+    },
+    {
+      "admission": {
+        "admitted": true,
+        "extent": 2.3750918141947386,
+        "matched_fit_failures": 0,
+        "raw_q95": 0.022486766003226636
+      },
+      "id": "inherit_global:f04__nonfem__08",
+      "index": 8,
+      "pairs": 10765,
+      "reasons": {},
+      "regime": "inherit_global",
+      "scores": {
+        "edge": 3.6677616209374784,
+        "japd": 3.2894061512283086,
+        "raw_median": 7.018945281527528e-09,
+        "raw_q95": 0.022486688038939166,
+        "rdsc": 0.009413925925587242,
+        "transfer": [
+          0.5,
+          0.5
+        ]
+      },
+      "sequence": "f04__nonfem"
+    }
+  ]
+}

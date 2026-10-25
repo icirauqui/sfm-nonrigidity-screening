@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this software version and the associated article when available."
+type: software
+title: "SfM Nonrigidity Screening"
+version: 0.1.0
+authors:
+  - family-names: Cirauqui-Viloria
+    given-names: Íñigo
+    orcid: "https://orcid.org/0000-0003-1773-1937"
+repository-code: "https://github.com/icirauqui/sfm-nonrigidity-screening"
+license: GPL-3.0-or-later

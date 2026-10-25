@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv*/
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.cache/
+outputs/
+release_assets/*.zip
+release_assets/*.whl
+release_assets/*.tar.gz
+*.tmp
+.DS_Store

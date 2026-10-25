@@ -1,0 +1,892 @@
+{
+  "calibration": [
+    {
+      "calibration": [
+        "f02__static",
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "independent:f01__fem:full",
+      "regime": "independent",
+      "sequence": "f01__fem"
+    },
+    {
+      "calibration": [
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "independent:f01__fem:drop_f02",
+      "regime": "independent",
+      "sequence": "f01__fem"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f04__static"
+      ],
+      "id": "independent:f01__fem:drop_f03",
+      "regime": "independent",
+      "sequence": "f01__fem"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f03__static"
+      ],
+      "id": "independent:f01__fem:drop_f04",
+      "regime": "independent",
+      "sequence": "f01__fem"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "independent:f01__nonfem:full",
+      "regime": "independent",
+      "sequence": "f01__nonfem"
+    },
+    {
+      "calibration": [
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "independent:f01__nonfem:drop_f02",
+      "regime": "independent",
+      "sequence": "f01__nonfem"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f04__static"
+      ],
+      "id": "independent:f01__nonfem:drop_f03",
+      "regime": "independent",
+      "sequence": "f01__nonfem"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f03__static"
+      ],
+      "id": "independent:f01__nonfem:drop_f04",
+      "regime": "independent",
+      "sequence": "f01__nonfem"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "independent:f01__static:full",
+      "regime": "independent",
+      "sequence": "f01__static"
+    },
+    {
+      "calibration": [
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "independent:f01__static:drop_f02",
+      "regime": "independent",
+      "sequence": "f01__static"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f04__static"
+      ],
+      "id": "independent:f01__static:drop_f03",
+      "regime": "independent",
+      "sequence": "f01__static"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f03__static"
+      ],
+      "id": "independent:f01__static:drop_f04",
+      "regime": "independent",
+      "sequence": "f01__static"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "independent:f02__fem:full",
+      "regime": "independent",
+      "sequence": "f02__fem"
+    },
+    {
+      "calibration": [
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "independent:f02__fem:drop_f01",
+      "regime": "independent",
+      "sequence": "f02__fem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f04__static"
+      ],
+      "id": "independent:f02__fem:drop_f03",
+      "regime": "independent",
+      "sequence": "f02__fem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f03__static"
+      ],
+      "id": "independent:f02__fem:drop_f04",
+      "regime": "independent",
+      "sequence": "f02__fem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "independent:f02__nonfem:full",
+      "regime": "independent",
+      "sequence": "f02__nonfem"
+    },
+    {
+      "calibration": [
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "independent:f02__nonfem:drop_f01",
+      "regime": "independent",
+      "sequence": "f02__nonfem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f04__static"
+      ],
+      "id": "independent:f02__nonfem:drop_f03",
+      "regime": "independent",
+      "sequence": "f02__nonfem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f03__static"
+      ],
+      "id": "independent:f02__nonfem:drop_f04",
+      "regime": "independent",
+      "sequence": "f02__nonfem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "independent:f02__static:full",
+      "regime": "independent",
+      "sequence": "f02__static"
+    },
+    {
+      "calibration": [
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "independent:f02__static:drop_f01",
+      "regime": "independent",
+      "sequence": "f02__static"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f04__static"
+      ],
+      "id": "independent:f02__static:drop_f03",
+      "regime": "independent",
+      "sequence": "f02__static"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f03__static"
+      ],
+      "id": "independent:f02__static:drop_f04",
+      "regime": "independent",
+      "sequence": "f02__static"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static",
+        "f04__static"
+      ],
+      "id": "independent:f03__fem:full",
+      "regime": "independent",
+      "sequence": "f03__fem"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f04__static"
+      ],
+      "id": "independent:f03__fem:drop_f01",
+      "regime": "independent",
+      "sequence": "f03__fem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f04__static"
+      ],
+      "id": "independent:f03__fem:drop_f02",
+      "regime": "independent",
+      "sequence": "f03__fem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static"
+      ],
+      "id": "independent:f03__fem:drop_f04",
+      "regime": "independent",
+      "sequence": "f03__fem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static",
+        "f04__static"
+      ],
+      "id": "independent:f03__nonfem:full",
+      "regime": "independent",
+      "sequence": "f03__nonfem"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f04__static"
+      ],
+      "id": "independent:f03__nonfem:drop_f01",
+      "regime": "independent",
+      "sequence": "f03__nonfem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f04__static"
+      ],
+      "id": "independent:f03__nonfem:drop_f02",
+      "regime": "independent",
+      "sequence": "f03__nonfem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static"
+      ],
+      "id": "independent:f03__nonfem:drop_f04",
+      "regime": "independent",
+      "sequence": "f03__nonfem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static",
+        "f04__static"
+      ],
+      "id": "independent:f03__static:full",
+      "regime": "independent",
+      "sequence": "f03__static"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f04__static"
+      ],
+      "id": "independent:f03__static:drop_f01",
+      "regime": "independent",
+      "sequence": "f03__static"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f04__static"
+      ],
+      "id": "independent:f03__static:drop_f02",
+      "regime": "independent",
+      "sequence": "f03__static"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static"
+      ],
+      "id": "independent:f03__static:drop_f04",
+      "regime": "independent",
+      "sequence": "f03__static"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static",
+        "f03__static"
+      ],
+      "id": "independent:f04__fem:full",
+      "regime": "independent",
+      "sequence": "f04__fem"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f03__static"
+      ],
+      "id": "independent:f04__fem:drop_f01",
+      "regime": "independent",
+      "sequence": "f04__fem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f03__static"
+      ],
+      "id": "independent:f04__fem:drop_f02",
+      "regime": "independent",
+      "sequence": "f04__fem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static"
+      ],
+      "id": "independent:f04__fem:drop_f03",
+      "regime": "independent",
+      "sequence": "f04__fem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static",
+        "f03__static"
+      ],
+      "id": "independent:f04__nonfem:full",
+      "regime": "independent",
+      "sequence": "f04__nonfem"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f03__static"
+      ],
+      "id": "independent:f04__nonfem:drop_f01",
+      "regime": "independent",
+      "sequence": "f04__nonfem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f03__static"
+      ],
+      "id": "independent:f04__nonfem:drop_f02",
+      "regime": "independent",
+      "sequence": "f04__nonfem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static"
+      ],
+      "id": "independent:f04__nonfem:drop_f03",
+      "regime": "independent",
+      "sequence": "f04__nonfem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static",
+        "f03__static"
+      ],
+      "id": "independent:f04__static:full",
+      "regime": "independent",
+      "sequence": "f04__static"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f03__static"
+      ],
+      "id": "independent:f04__static:drop_f01",
+      "regime": "independent",
+      "sequence": "f04__static"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f03__static"
+      ],
+      "id": "independent:f04__static:drop_f02",
+      "regime": "independent",
+      "sequence": "f04__static"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static"
+      ],
+      "id": "independent:f04__static:drop_f03",
+      "regime": "independent",
+      "sequence": "f04__static"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f01__fem:full",
+      "regime": "inherit_global",
+      "sequence": "f01__fem"
+    },
+    {
+      "calibration": [
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f01__fem:drop_f02",
+      "regime": "inherit_global",
+      "sequence": "f01__fem"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f01__fem:drop_f03",
+      "regime": "inherit_global",
+      "sequence": "f01__fem"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f03__static"
+      ],
+      "id": "inherit_global:f01__fem:drop_f04",
+      "regime": "inherit_global",
+      "sequence": "f01__fem"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f01__nonfem:full",
+      "regime": "inherit_global",
+      "sequence": "f01__nonfem"
+    },
+    {
+      "calibration": [
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f01__nonfem:drop_f02",
+      "regime": "inherit_global",
+      "sequence": "f01__nonfem"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f01__nonfem:drop_f03",
+      "regime": "inherit_global",
+      "sequence": "f01__nonfem"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f03__static"
+      ],
+      "id": "inherit_global:f01__nonfem:drop_f04",
+      "regime": "inherit_global",
+      "sequence": "f01__nonfem"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f01__static:full",
+      "regime": "inherit_global",
+      "sequence": "f01__static"
+    },
+    {
+      "calibration": [
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f01__static:drop_f02",
+      "regime": "inherit_global",
+      "sequence": "f01__static"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f01__static:drop_f03",
+      "regime": "inherit_global",
+      "sequence": "f01__static"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f03__static"
+      ],
+      "id": "inherit_global:f01__static:drop_f04",
+      "regime": "inherit_global",
+      "sequence": "f01__static"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f02__fem:full",
+      "regime": "inherit_global",
+      "sequence": "f02__fem"
+    },
+    {
+      "calibration": [
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f02__fem:drop_f01",
+      "regime": "inherit_global",
+      "sequence": "f02__fem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f02__fem:drop_f03",
+      "regime": "inherit_global",
+      "sequence": "f02__fem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f03__static"
+      ],
+      "id": "inherit_global:f02__fem:drop_f04",
+      "regime": "inherit_global",
+      "sequence": "f02__fem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f02__nonfem:full",
+      "regime": "inherit_global",
+      "sequence": "f02__nonfem"
+    },
+    {
+      "calibration": [
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f02__nonfem:drop_f01",
+      "regime": "inherit_global",
+      "sequence": "f02__nonfem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f02__nonfem:drop_f03",
+      "regime": "inherit_global",
+      "sequence": "f02__nonfem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f03__static"
+      ],
+      "id": "inherit_global:f02__nonfem:drop_f04",
+      "regime": "inherit_global",
+      "sequence": "f02__nonfem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f02__static:full",
+      "regime": "inherit_global",
+      "sequence": "f02__static"
+    },
+    {
+      "calibration": [
+        "f03__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f02__static:drop_f01",
+      "regime": "inherit_global",
+      "sequence": "f02__static"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f02__static:drop_f03",
+      "regime": "inherit_global",
+      "sequence": "f02__static"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f03__static"
+      ],
+      "id": "inherit_global:f02__static:drop_f04",
+      "regime": "inherit_global",
+      "sequence": "f02__static"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f03__fem:full",
+      "regime": "inherit_global",
+      "sequence": "f03__fem"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f03__fem:drop_f01",
+      "regime": "inherit_global",
+      "sequence": "f03__fem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f03__fem:drop_f02",
+      "regime": "inherit_global",
+      "sequence": "f03__fem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static"
+      ],
+      "id": "inherit_global:f03__fem:drop_f04",
+      "regime": "inherit_global",
+      "sequence": "f03__fem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f03__nonfem:full",
+      "regime": "inherit_global",
+      "sequence": "f03__nonfem"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f03__nonfem:drop_f01",
+      "regime": "inherit_global",
+      "sequence": "f03__nonfem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f03__nonfem:drop_f02",
+      "regime": "inherit_global",
+      "sequence": "f03__nonfem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static"
+      ],
+      "id": "inherit_global:f03__nonfem:drop_f04",
+      "regime": "inherit_global",
+      "sequence": "f03__nonfem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f03__static:full",
+      "regime": "inherit_global",
+      "sequence": "f03__static"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f03__static:drop_f01",
+      "regime": "inherit_global",
+      "sequence": "f03__static"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f04__static"
+      ],
+      "id": "inherit_global:f03__static:drop_f02",
+      "regime": "inherit_global",
+      "sequence": "f03__static"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static"
+      ],
+      "id": "inherit_global:f03__static:drop_f04",
+      "regime": "inherit_global",
+      "sequence": "f03__static"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static",
+        "f03__static"
+      ],
+      "id": "inherit_global:f04__fem:full",
+      "regime": "inherit_global",
+      "sequence": "f04__fem"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f03__static"
+      ],
+      "id": "inherit_global:f04__fem:drop_f01",
+      "regime": "inherit_global",
+      "sequence": "f04__fem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f03__static"
+      ],
+      "id": "inherit_global:f04__fem:drop_f02",
+      "regime": "inherit_global",
+      "sequence": "f04__fem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static"
+      ],
+      "id": "inherit_global:f04__fem:drop_f03",
+      "regime": "inherit_global",
+      "sequence": "f04__fem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static",
+        "f03__static"
+      ],
+      "id": "inherit_global:f04__nonfem:full",
+      "regime": "inherit_global",
+      "sequence": "f04__nonfem"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f03__static"
+      ],
+      "id": "inherit_global:f04__nonfem:drop_f01",
+      "regime": "inherit_global",
+      "sequence": "f04__nonfem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f03__static"
+      ],
+      "id": "inherit_global:f04__nonfem:drop_f02",
+      "regime": "inherit_global",
+      "sequence": "f04__nonfem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static"
+      ],
+      "id": "inherit_global:f04__nonfem:drop_f03",
+      "regime": "inherit_global",
+      "sequence": "f04__nonfem"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static",
+        "f03__static"
+      ],
+      "id": "inherit_global:f04__static:full",
+      "regime": "inherit_global",
+      "sequence": "f04__static"
+    },
+    {
+      "calibration": [
+        "f02__static",
+        "f03__static"
+      ],
+      "id": "inherit_global:f04__static:drop_f01",
+      "regime": "inherit_global",
+      "sequence": "f04__static"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f03__static"
+      ],
+      "id": "inherit_global:f04__static:drop_f02",
+      "regime": "inherit_global",
+      "sequence": "f04__static"
+    },
+    {
+      "calibration": [
+        "f01__static",
+        "f02__static"
+      ],
+      "id": "inherit_global:f04__static:drop_f03",
+      "regime": "inherit_global",
+      "sequence": "f04__static"
+    }
+  ]
+}

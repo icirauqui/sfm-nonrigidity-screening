@@ -1,0 +1,738 @@
+[
+  {
+    "actual": 5.3542426550663755,
+    "atol": 1e-10,
+    "expected": 5.354242144455246,
+    "id": "inherit_global:f02__static__00",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 4.629380363441688,
+    "atol": 1e-10,
+    "expected": 4.629380433629192,
+    "id": "inherit_global:f02__static__04",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.6117685865886133,
+    "atol": 1e-10,
+    "expected": 3.6117685378615825,
+    "id": "inherit_global:f02__static__05",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 2.9211729582193264,
+    "atol": 1e-10,
+    "expected": 2.9211726807868468,
+    "id": "inherit_global:f02__static__05",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.504384572580282,
+    "atol": 1e-10,
+    "expected": 3.504385067937097,
+    "id": "inherit_global:f02__static__06",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 2.729500553601836,
+    "atol": 1e-10,
+    "expected": 2.7295005014186,
+    "id": "inherit_global:f02__static__06",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.5036457438257957,
+    "atol": 1e-10,
+    "expected": 3.5036312009521655,
+    "id": "inherit_global:f02__static__07",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 4.007798556729563,
+    "atol": 1e-10,
+    "expected": 4.00779840296849,
+    "id": "inherit_global:f02__static__08",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 5.817610072002712,
+    "atol": 1e-10,
+    "expected": 5.817609820829434,
+    "id": "inherit_global:f02__static__08",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.5377685196503714,
+    "atol": 1e-10,
+    "expected": 3.5377687594972693,
+    "id": "inherit_global:f01__static__02",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.5865526702591164,
+    "atol": 1e-10,
+    "expected": 3.5865520882421493,
+    "id": "inherit_global:f01__static__06",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 4.224381603358365,
+    "atol": 1e-10,
+    "expected": 4.224377470695955,
+    "id": "inherit_global:f01__static__08",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 5.6655917062760635,
+    "atol": 1e-10,
+    "expected": 5.665592417574383,
+    "id": "inherit_global:f01__fem__00",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 2.8783003612879847,
+    "atol": 1e-10,
+    "expected": 2.8783002965783346,
+    "id": "inherit_global:f01__fem__01",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.7637439623134425,
+    "atol": 1e-10,
+    "expected": 3.7637440752285722,
+    "id": "inherit_global:f01__fem__02",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 2.9837539522517296,
+    "atol": 1e-10,
+    "expected": 2.9837537805688945,
+    "id": "inherit_global:f01__fem__02",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.4837964941674406,
+    "atol": 1e-10,
+    "expected": 3.4837964060494975,
+    "id": "inherit_global:f01__fem__03",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.2962885162900157,
+    "atol": 1e-10,
+    "expected": 3.296296290968473,
+    "id": "inherit_global:f01__fem__04",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.700322975794105,
+    "atol": 1e-10,
+    "expected": 3.7003260897706394,
+    "id": "inherit_global:f01__fem__06",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.389903133399626,
+    "atol": 1e-10,
+    "expected": 3.389903415867163,
+    "id": "inherit_global:f01__fem__07",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 4.117729714840688,
+    "atol": 1e-10,
+    "expected": 4.1177298164754434,
+    "id": "inherit_global:f01__fem__08",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 5.457441389309809,
+    "atol": 1e-10,
+    "expected": 5.4574418026355085,
+    "id": "inherit_global:f01__nonfem__00",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 6.0542165892481625,
+    "atol": 1e-10,
+    "expected": 6.054215470256662,
+    "id": "inherit_global:f01__nonfem__00",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.4916083870911785,
+    "atol": 1e-10,
+    "expected": 3.4916082981152856,
+    "id": "inherit_global:f01__nonfem__01",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 2.989354851264471,
+    "atol": 1e-10,
+    "expected": 2.989354675323317,
+    "id": "inherit_global:f01__nonfem__01",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.6001271001186206,
+    "atol": 1e-10,
+    "expected": 3.6001289123874285,
+    "id": "inherit_global:f01__nonfem__02",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.987130876166141,
+    "atol": 1e-10,
+    "expected": 3.987131044799087,
+    "id": "inherit_global:f01__nonfem__06",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 5.265523331189591,
+    "atol": 1e-10,
+    "expected": 5.265523258276774,
+    "id": "inherit_global:f02__fem__00",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 2.6463513944022434,
+    "atol": 1e-10,
+    "expected": 2.6463514351183877,
+    "id": "inherit_global:f02__fem__02",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 5.31462333629196,
+    "atol": 1e-10,
+    "expected": 5.314623010029258,
+    "id": "inherit_global:f02__fem__03",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 2.562194348883091,
+    "atol": 1e-10,
+    "expected": 2.5621928690084035,
+    "id": "inherit_global:f02__fem__03",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 4.700319026114787,
+    "atol": 1e-10,
+    "expected": 4.700338885878941,
+    "id": "inherit_global:f02__fem__04",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.169290449014153,
+    "atol": 1e-10,
+    "expected": 3.1692994188713066,
+    "id": "inherit_global:f02__fem__07",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 2.9690453938735075,
+    "atol": 1e-10,
+    "expected": 2.969045109102058,
+    "id": "inherit_global:f02__fem__07",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.7649963051696145,
+    "atol": 1e-10,
+    "expected": 3.7649947317288035,
+    "id": "inherit_global:f02__fem__08",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 5.5816745258240745,
+    "atol": 1e-10,
+    "expected": 5.581674123201648,
+    "id": "inherit_global:f02__nonfem__00",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 4.083307758476772,
+    "atol": 1e-10,
+    "expected": 4.0833075682384745,
+    "id": "inherit_global:f02__nonfem__02",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 5.459721894563561,
+    "atol": 1e-10,
+    "expected": 5.4597220363906285,
+    "id": "inherit_global:f02__nonfem__03",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.0218413761673966,
+    "atol": 1e-10,
+    "expected": 3.021841783792379,
+    "id": "inherit_global:f02__nonfem__03",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.1402596383631916,
+    "atol": 1e-10,
+    "expected": 3.140259681237918,
+    "id": "inherit_global:f02__nonfem__04",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.2332251356159816,
+    "atol": 1e-10,
+    "expected": 3.233223782198822,
+    "id": "inherit_global:f02__nonfem__04",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 2.2520209207879933,
+    "atol": 1e-10,
+    "expected": 2.252035467719952,
+    "id": "inherit_global:f02__nonfem__05",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.6217696892752373,
+    "atol": 1e-10,
+    "expected": 3.621769772806403,
+    "id": "inherit_global:f02__nonfem__06",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.4505107565643236,
+    "atol": 1e-10,
+    "expected": 3.4505116096439377,
+    "id": "inherit_global:f02__nonfem__08",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 5.45274162950553,
+    "atol": 1e-10,
+    "expected": 5.452741016276677,
+    "id": "inherit_global:f02__nonfem__08",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 5.949202068101703,
+    "atol": 1e-10,
+    "expected": 5.9492024435263815,
+    "id": "inherit_global:f03__static__00",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 7.197497421131514,
+    "atol": 1e-10,
+    "expected": 7.197498599977971,
+    "id": "inherit_global:f03__static__00",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 4.576388619389155,
+    "atol": 1e-10,
+    "expected": 4.576387741968222,
+    "id": "inherit_global:f03__static__02",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 4.457357183447028,
+    "atol": 1e-10,
+    "expected": 4.457310437786974,
+    "id": "inherit_global:f03__static__03",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.5995345543060573,
+    "atol": 1e-10,
+    "expected": 3.5995346304855693,
+    "id": "inherit_global:f03__static__05",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.5247948359201278,
+    "atol": 1e-10,
+    "expected": 3.524794877177438,
+    "id": "inherit_global:f03__static__06",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.667191373596293,
+    "atol": 1e-10,
+    "expected": 3.6671906715396863,
+    "id": "inherit_global:f03__static__07",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 4.086572708629324,
+    "atol": 1e-10,
+    "expected": 4.086562342569539,
+    "id": "inherit_global:f03__static__08",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 5.954087874886068,
+    "atol": 1e-10,
+    "expected": 5.9540876246960845,
+    "id": "inherit_global:f03__fem__00",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 7.204718071909198,
+    "atol": 1e-10,
+    "expected": 7.204717537301562,
+    "id": "inherit_global:f03__fem__00",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 4.195738926055472,
+    "atol": 1e-10,
+    "expected": 4.195738979142314,
+    "id": "inherit_global:f03__fem__01",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 2.806821365929414,
+    "atol": 1e-10,
+    "expected": 2.8068211838884776,
+    "id": "inherit_global:f03__fem__01",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 2.716639965375201,
+    "atol": 1e-10,
+    "expected": 2.7166396304006923,
+    "id": "inherit_global:f03__fem__02",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 4.494522130168922,
+    "atol": 1e-10,
+    "expected": 4.494522070618803,
+    "id": "inherit_global:f03__fem__03",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.226708904801333,
+    "atol": 1e-10,
+    "expected": 3.2267094106575698,
+    "id": "inherit_global:f03__fem__04",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.4961779442426084,
+    "atol": 1e-10,
+    "expected": 3.4961778119722737,
+    "id": "inherit_global:f03__fem__04",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 2.9267338117525656,
+    "atol": 1e-10,
+    "expected": 2.9267325408209213,
+    "id": "inherit_global:f03__fem__07",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 4.5960530081542865,
+    "atol": 1e-10,
+    "expected": 4.596052754805953,
+    "id": "inherit_global:f03__fem__08",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 6.635764786979083,
+    "atol": 1e-10,
+    "expected": 6.635765128837714,
+    "id": "inherit_global:f03__nonfem__00",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 4.162728272248698,
+    "atol": 1e-10,
+    "expected": 4.162687037688942,
+    "id": "inherit_global:f03__nonfem__01",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 2.813902832325782,
+    "atol": 1e-10,
+    "expected": 2.813902789723175,
+    "id": "inherit_global:f03__nonfem__01",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.2283455557832195,
+    "atol": 1e-10,
+    "expected": 3.2283454098928295,
+    "id": "inherit_global:f03__nonfem__04",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 2.153320272800248,
+    "atol": 1e-10,
+    "expected": 2.1533183797452327,
+    "id": "inherit_global:f03__nonfem__05",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 4.082726489998501,
+    "atol": 1e-10,
+    "expected": 4.082726703878004,
+    "id": "inherit_global:f03__nonfem__06",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 2.7563730511495663,
+    "atol": 1e-10,
+    "expected": 2.756373684417392,
+    "id": "inherit_global:f03__nonfem__07",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 8.228803232230264,
+    "atol": 1e-10,
+    "expected": 8.228803557918969,
+    "id": "inherit_global:f04__static__00",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 5.9362556699429465,
+    "atol": 1e-10,
+    "expected": 5.936255580035349,
+    "id": "inherit_global:f04__static__01",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 4.022068831045312,
+    "atol": 1e-10,
+    "expected": 4.022068950589153,
+    "id": "inherit_global:f04__static__04",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 4.434820893305854,
+    "atol": 1e-10,
+    "expected": 4.434821124246959,
+    "id": "inherit_global:f04__static__05",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 2.758571031363433,
+    "atol": 1e-10,
+    "expected": 2.758571062761994,
+    "id": "inherit_global:f04__static__05",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 4.753738136339351,
+    "atol": 1e-10,
+    "expected": 4.753738275527394,
+    "id": "inherit_global:f04__static__06",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 4.146103436312233,
+    "atol": 1e-10,
+    "expected": 4.146103073950383,
+    "id": "inherit_global:f04__static__07",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 8.230353551408705,
+    "atol": 1e-10,
+    "expected": 8.230353299197612,
+    "id": "inherit_global:f04__fem__00",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 5.867117184781642,
+    "atol": 1e-10,
+    "expected": 5.867117093000555,
+    "id": "inherit_global:f04__fem__01",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.2465004761819745,
+    "atol": 1e-10,
+    "expected": 3.2465012556872646,
+    "id": "inherit_global:f04__fem__04",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 4.144085897025983,
+    "atol": 1e-10,
+    "expected": 4.144085486025567,
+    "id": "inherit_global:f04__fem__05",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 4.702518833952616,
+    "atol": 1e-10,
+    "expected": 4.702518959211327,
+    "id": "inherit_global:f04__fem__06",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 4.1695220365404095,
+    "atol": 1e-10,
+    "expected": 4.169521820692081,
+    "id": "inherit_global:f04__fem__07",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 4.503404829554154,
+    "atol": 1e-10,
+    "expected": 4.503404778947893,
+    "id": "inherit_global:f04__fem__08",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 7.925555062052729,
+    "atol": 1e-10,
+    "expected": 7.925556083871867,
+    "id": "inherit_global:f04__fem__08",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 8.2600237119799,
+    "atol": 1e-10,
+    "expected": 8.260023837181532,
+    "id": "inherit_global:f04__nonfem__00",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 4.105501314733266,
+    "atol": 1e-10,
+    "expected": 4.105501747816707,
+    "id": "inherit_global:f04__nonfem__00",
+    "method": "japd",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.8744274633414064,
+    "atol": 1e-10,
+    "expected": 3.8744274238032506,
+    "id": "inherit_global:f04__nonfem__03",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 2.734052192034014,
+    "atol": 1e-10,
+    "expected": 2.734045079738592,
+    "id": "inherit_global:f04__nonfem__04",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.2156794961158863,
+    "atol": 1e-10,
+    "expected": 3.2156792357522685,
+    "id": "inherit_global:f04__nonfem__05",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.667758117290539,
+    "atol": 1e-10,
+    "expected": 3.6677616209374784,
+    "id": "inherit_global:f04__nonfem__08",
+    "method": "edge",
+    "rtol": 1e-08
+  },
+  {
+    "actual": 3.2894061897174485,
+    "atol": 1e-10,
+    "expected": 3.2894061512283086,
+    "id": "inherit_global:f04__nonfem__08",
+    "method": "japd",
+    "rtol": 1e-08
+  }
+]

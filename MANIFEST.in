@@ -1,0 +1,8 @@
+include README.md LICENSE THIRD_PARTY.md CITATION.cff Dockerfile requirements.txt
+recursive-include docs *.md
+recursive-include examples *.py
+recursive-include tools *.py
+recursive-include tests *.py
+recursive-include provenance *.json
+recursive-include reproduction/reference *.json *.npz *.csv
+global-exclude __pycache__ *.py[cod] .DS_Store

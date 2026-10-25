@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=77", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sfm-nonrigidity-screening"
+version = "0.1.0"
+description = "Reference algorithms for nonrigidity screening from global and local SfM evidence"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+license = "GPL-3.0-or-later"
+license-files = ["LICENSE"]
+authors = [{name = "Íñigo Cirauqui-Viloria"}]
+dependencies = ["numpy==2.2.6", "scipy==1.16.1"]
+
+[project.optional-dependencies]
+figures = ["matplotlib==3.10.6", "Pillow==11.3.0", "PyMuPDF==1.26.7"]
+m3c2 = ["py4dgeo==1.2.0"]
+
+[project.scripts]
+sfm-nonrigidity = "sfm_nonrigidity.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
