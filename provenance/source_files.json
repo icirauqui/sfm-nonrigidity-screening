@@ -1,6 +1,6 @@
 {
   "Dockerfile": "2a7d43f5ebc79baa5b00aae644afa16051bf902c95f32070aeec1b88ee526e6b",
-  "LICENSE": "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809",
+  "LICENSE": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
   "examples/create_fixture.py": "86d45ad7af7f68f22e97971697ac02b7d90327cf3f611edc529b5cb7dc0be918",
   "pyproject.toml": "53be8e349e4c57df0117757acf5bc152d7c76ff824a14b6f3d8304cf76ac32e2",
   "requirements.txt": "6c87c12b952a5c98505e53c9de1c3b9ed1a0a0b27a4642f84df34bd77f9b31e3",
