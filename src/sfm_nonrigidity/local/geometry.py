@@ -6,15 +6,15 @@ SPDX-License-Identifier: GPL-3.0-or-later
 from __future__ import annotations
 import numpy as np
 from . import (
-    linear as L,
     analytic as A,
     conditioned as K,
     edges as Q,
     identity as ID,
-    rdsc as DET,
     intervals as TV,
 )
-from .alignment import alignment, intersections
+from ..common import linear as L
+from ..common.alignment import alignment, intersections
+from ..methods.rdsc import rdsc as DET
 
 FIT = dict(
     max_iterations=80,

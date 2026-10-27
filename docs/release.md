@@ -1,6 +1,6 @@
 # Repository contents and public release preparation
 
-The private GitHub repository is usable independently of the MeshMeld workspace.
+The public GitHub source repository is usable independently of the MeshMeld workspace.
 It contains the core global/RDSC/BASC-C implementations, elementary controls,
 point fitting, local components, calibrated composition and abstentions; public
 API/CLI; installation pins; a manufactured six-command example; numerical tests;
@@ -31,8 +31,8 @@ unlicensed LOG source are not substitutes for these selected bundles.
 
 ## Author-controlled public release steps
 
-1. Publish the intended repository visibility/source version and preserve the
-   exact source commit. Do not overwrite historical numerical reference records.
+1. Source visibility is public (verified 27 October 2026). Preserve the
+   exact source commit and identify the intended software version. Do not overwrite historical numerical reference records.
 2. Deposit both selected input bundles in a suitable versioned resource, keeping
    model inference and display-only inputs separate. Include checksums, original
    source-data licensing/attribution and extraction instructions.
@@ -51,8 +51,8 @@ unlicensed LOG source are not substitutes for these selected bundles.
    then verify its import and fresh-submodule initialization. Preserve ordinary
    commit history; no force push or replacement of published artifacts is needed.
 
-Pushing the private repository and registering its submodule do not perform
-these public-release steps. Publication visibility and a DOI are not necessary
+Public source access and submodule registration do not complete the remaining
+input-deposition and external-reproduction steps. Publication visibility and a DOI are not necessary
 to run the core implementation, but public input access is needed for complete
 external reproduction of the paper's primary figures and scores.
 

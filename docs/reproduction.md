@@ -6,6 +6,7 @@ Install the package, then run:
 
 ```sh
 python tools/check_source.py
+python tools/check_layout.py
 python -m unittest discover -s tests -v
 python tools/check_reference.py --output outputs/reference.json
 ```
@@ -95,7 +96,8 @@ are separate from model inference; see `tools/summarize_results.py`.
 
 ## Optional comparators
 
-The native M3C2 adapter is `sfm_nonrigidity.m3c2.compute(x,y)`, requiring py4dgeo1.2.0
+The native M3C2 adapter is `sfm_nonrigidity.comparators.m3c2.compute(x,y)`
+(the previous flat import remains compatible), requiring py4dgeo1.2.0
 in its qualified environment. Primary py4dgeo runs were macOS ARM64 and are not
 assumed installed in the Linux numerical image. All explicit support/admission
 rules and same-support raw controls remain in the adapter. LOG implementation

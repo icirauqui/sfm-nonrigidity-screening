@@ -78,7 +78,8 @@ assert answer["decision"] is True
 
 Public functions are exported from `sfm_nonrigidity`: `load_model`,
 `global_scores`, `rdsc_scores`, `epc_scores`, `refine_points`, `local_scores`,
-`compose`. Temporal aggregation is `sfm_nonrigidity.sequence.infer`.
+`compose`. Temporal aggregation is `sfm_nonrigidity.methods.basc_c.sequence.infer` (the earlier
+`sfm_nonrigidity.sequence` import remains compatible).
 Local geometry uses a process-local projection callback; parallelize separate
 processes rather than concurrent threads. Do not change the cached model tuple
 in place; a fresh input path/process avoids reusing stale model-reader cache.

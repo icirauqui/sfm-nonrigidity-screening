@@ -16,7 +16,10 @@ The package provides three alternative diagnostics:
 These are Python research implementations. They consume existing reconstructions;
 reconstruction disagreement does not uniquely identify physical deformation.
 BASC-C composes local experts and does not include the global modal diagnostic.
-See [methods and limitations](docs/methods.md) and [input contracts](docs/inputs.md).
+See [methods and limitations](docs/methods.md), [input contracts](docs/inputs.md)
+and the [source architecture](docs/architecture.md). Main API/CLI entry points
+stay at the package root; methods, local components, shared code and comparators
+have separate subpackages.
 
 ## Install
 
@@ -86,6 +89,7 @@ expressions must not be substituted when reproducing floating-point outputs.
 
 ```sh
 python tools/check_source.py
+python tools/check_layout.py
 python -m unittest discover -s tests -v
 python tools/check_reference.py --output outputs/reference.json
 ```
@@ -134,5 +138,6 @@ the remaining author-controlled public input-deposition steps.
 Developer setup, packaging checks and workspace submodule use are described in
 [the development guide](docs/development.md).
 
-The repository is maintained privately on GitHub. No public release, external review,
-new experiment, native MeshMeld integration or journal acceptance is implied.
+The source repository is public on GitHub. Separate input-asset deposition,
+a DOI, external review,
+new experiments, native MeshMeld integration and journal acceptance are not implied.

@@ -3,7 +3,7 @@
 from __future__ import annotations
 import numpy as np
 from scipy.spatial import cKDTree
-from .rdsc import detection_scores, robust_affine_residuals
+from ..methods.rdsc.rdsc import detection_scores, robust_affine_residuals
 
 
 def proper_fit(source, target, *, scale):

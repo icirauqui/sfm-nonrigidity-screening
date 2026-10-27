@@ -6,7 +6,11 @@ SPDX-License-Identifier: GPL-3.0-or-later
 from pathlib import Path
 import math
 import numpy as np
-from . import models, geometry, global_model, rdsc, routing, epc_scalar
+from .common import models
+from .local import geometry
+from .methods.global_modal import global_model
+from .methods.rdsc import rdsc, epc_scalar
+from .methods.basc_c import routing
 
 
 def load_model(directory):

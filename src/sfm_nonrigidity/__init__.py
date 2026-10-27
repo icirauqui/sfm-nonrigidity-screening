@@ -10,7 +10,12 @@ from .api import (
     refine_points,
 )
 
-__version__ = "0.1.0"
+from ._compat import install as _install_legacy_aliases
+
+_install_legacy_aliases(globals())
+del _install_legacy_aliases
+
+__version__ = "0.1.1"
 __all__ = [
     "global_scores",
     "local_scores",

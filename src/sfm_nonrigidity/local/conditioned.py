@@ -5,8 +5,8 @@ SPDX-License-Identifier: GPL-3.0-or-later
 
 from __future__ import annotations
 import numpy as np
-from . import linear as L
-from .qr_response import eliminate
+from ..common import linear as L
+from ..common.qr_response import eliminate
 
 
 def signed_projection(cam, kind, p):

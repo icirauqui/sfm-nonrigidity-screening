@@ -29,7 +29,7 @@ expects the fully prepared model tuple, including the appropriate poses.
 
 `rdsc` reads NPZ arrays `positions` and `residuals`, both finite N×3. Residuals
 are aligned floating points minus reference points. Camera-first proper Sim(3)
-alignment and exact track intersection are available in `sfm_nonrigidity.alignment`.
+alignment and exact track intersection are available in `sfm_nonrigidity.common.alignment` (the earlier flat import remains an alias).
 The primary seed is `20260904 + window_index`, eight requested neighbors and
 20 shuffles. Nearest-neighbor ties follow the retained reference implementation;
 TC-RDSC was a separate numerical profile and is not silently substituted.

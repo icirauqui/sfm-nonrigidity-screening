@@ -7,7 +7,7 @@ application or dated experiment directories. There is no native C++/Qt integrati
 
 ## Independent checkout
 
-Use an account with access while the repository is private:
+The source repository is public and can be cloned without authentication:
 
 ```sh
 git clone https://github.com/icirauqui/sfm-nonrigidity-screening.git
@@ -16,6 +16,7 @@ python3.12 -m venv .venv
 . .venv/bin/activate
 python -m pip install -e .
 python tools/check_source.py
+python tools/check_layout.py
 python -m unittest discover -s tests -v
 python tools/check_reference.py --output outputs/reference.json
 ```
@@ -75,6 +76,7 @@ recorded scientific revision. Keep input ZIPs, virtual environments, build outpu
 and caches out of Git. Do not upload the private historic capsule as a substitute
 for the selected, separately attributed reproduction inputs.
 
-Pushing this private repository is not a public release, DOI deposit, journal
-submission or permission to change repository visibility. Public code/input
-availability remains a separate author-controlled publication step.
+Public source access is verified. Input-bundle deposition, a DOI and journal
+submission are separate publication steps; a GitHub source push does not perform
+them. See [architecture.md](architecture.md) for canonical module locations and
+backward-compatible imports.

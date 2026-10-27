@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Please cite this software version and the associated article when available."
 type: software
 title: "SfM Nonrigidity Screening"
-version: 0.1.0
+version: 0.1.1
 authors:
   - family-names: Cirauqui-Viloria
     given-names: Íñigo

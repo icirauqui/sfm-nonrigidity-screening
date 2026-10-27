@@ -12,7 +12,7 @@ from .api import (
     refine_points,
     compose,
 )
-from .sequence import infer
+from .methods.basc_c.sequence import infer
 
 
 def json_value(value):
@@ -112,7 +112,7 @@ def main(argv=None):
                 ):
                     raise ValueError("inherited_camera_identity_mismatch")
                 local = ({i: base[0][i] for i in local[0]}, *local[1:])
-            from .alignment import intersections
+            from .common.alignment import intersections
 
             matched = intersections(base[5], local[5])
             extent = None
