@@ -10,7 +10,8 @@ in both independent and inherited camera regimes. No operator was altered to
 make a result favorable.
 
 Fifteen numerical tests pass on Linux, including independent point optimization,
-finite-difference gradients, dense-versus-streamed projection, transfer bounds,+composition and the retained EPC scalar fixture. Structural tests also run on
+finite-difference gradients, dense-versus-streamed projection, transfer bounds,
+composition and the retained EPC scalar fixture. Structural tests also run on
 macOS; the strict retained scalar fixture is explicitly Linux-specific.
 
 The complete model replay uses 32 globals and 216 local-window/regime records.

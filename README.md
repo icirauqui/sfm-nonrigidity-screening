@@ -80,6 +80,7 @@ expressions must not be substituted when reproducing floating-point outputs.
 ## Checks and reproduction
 
 ```sh
+python tools/check_source.py
 python -m unittest discover -s tests -v
 python tools/check_reference.py --output outputs/reference.json
 ```
@@ -106,8 +107,9 @@ The compact check and manufactured tests do not change these limits.
 
 Source and selected closed numerical references are present here. Large model
 and display-only bundles are prepared separately and are not stored in Git.
-Their public asset URL/DOI and the associated article identifier are not yet
-issued. The public benchmark and its separate reproduction resources are
+Their public asset URL/DOI and the screening article identifier are not yet
+issued. The companion benchmark article is available as
+[arXiv:2610.35621v1](https://arxiv.org/abs/2610.35621v1). The public benchmark and its separate reproduction resources are
 [10.57967/hf/10850](https://doi.org/10.57967/hf/10850) and
 [10.57967/hf/10851](https://doi.org/10.57967/hf/10851); these do not identify this
 implementation's future deposit. Historic E16/J08 raw imagery is unavailable;
@@ -121,5 +123,8 @@ unless a separate input license is explicitly stated. Benchmark display inputs
 retain their source-data license and attribution. Upstream LOG source is not
 redistributed: a hash-checked external adapter is provided separately.
 
-The repository is being prepared privately. No public release, external review,
+Developer setup, packaging checks and workspace submodule use are described in
+[the development guide](docs/development.md).
+
+The repository is maintained privately on GitHub. No public release, external review,
 new experiment, native MeshMeld integration or journal acceptance is implied.

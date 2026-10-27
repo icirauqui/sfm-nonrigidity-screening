@@ -9,3 +9,13 @@ authors:
     orcid: "https://orcid.org/0000-0003-1773-1937"
 repository-code: "https://github.com/icirauqui/sfm-nonrigidity-screening"
 license: GPL-3.0-or-later
+references:
+  - type: article
+    title: "Synthetic Deformable Tubular Benchmark: A mechanically annotated dataset for evaluating deformable 3D reconstruction"
+    authors:
+      - family-names: Cirauqui-Viloria
+        given-names: Íñigo
+    year: 2026
+    journal: arXiv
+    url: "https://arxiv.org/abs/2610.35621v1"
+    notes: "Companion benchmark article; distinct from the screening article and software."

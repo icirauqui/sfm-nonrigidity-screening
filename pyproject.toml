@@ -13,6 +13,11 @@ license-files = ["LICENSE"]
 authors = [{name = "Íñigo Cirauqui-Viloria"}]
 dependencies = ["numpy==2.2.6", "scipy==1.16.1"]
 
+[project.urls]
+Repository = "https://github.com/icirauqui/sfm-nonrigidity-screening"
+Documentation = "https://github.com/icirauqui/sfm-nonrigidity-screening/tree/main/docs"
+Issues = "https://github.com/icirauqui/sfm-nonrigidity-screening/issues"
+
 [project.optional-dependencies]
 figures = ["matplotlib==3.10.6", "Pillow==11.3.0", "PyMuPDF==1.26.7"]
 m3c2 = ["py4dgeo==1.2.0"]

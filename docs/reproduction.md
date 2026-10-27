@@ -5,6 +5,7 @@
 Install the package, then run:
 
 ```sh
+python tools/check_source.py
 python -m unittest discover -s tests -v
 python tools/check_reference.py --output outputs/reference.json
 ```
