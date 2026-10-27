@@ -59,6 +59,23 @@ def main():
         )
         + "\n"
     )
+    # Independent arithmetic example: these are not scores of the model above.
+    sequence = dict(
+        rows=[
+            dict(index=i, sequence=name, regime="independent", scores=dict(rdsc=value))
+            for name, value in [("control_a", 0.5), ("control_b", 1.0), ("target", 2.0)]
+            for i in range(9)
+        ],
+        calibration=[
+            dict(
+                id="example_target",
+                sequence="target",
+                regime="independent",
+                calibration=["control_a", "control_b"],
+            )
+        ],
+    )
+    (out / "sequence.json").write_text(json.dumps(sequence, indent=2) + "\n")
     print("Created arithmetic examples at", out)
 
 

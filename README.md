@@ -57,6 +57,11 @@ A score is not a calibrated detection. Global cutoffs must be supplied from the
 appropriate static controls; the example does not estimate general sensitivity.
 Outputs are created without overwriting an existing result.
 
+For a self-checking run of all six commands, use
+`python examples/run_example.py --output outputs/complete_example`.
+The [usage guide](docs/usage.md) documents input/output fields, Python calls,
+Docker use, errors and scientific refusals.
+
 ## Local preparation and composition
 
 `sfm-nonrigidity refine` performs deterministic point-only refinement with fixed
@@ -122,6 +127,9 @@ and [CITATION.cff](CITATION.cff). Numerical reference records have the same lice
 unless a separate input license is explicitly stated. Benchmark display inputs
 retain their source-data license and attribution. Upstream LOG source is not
 redistributed: a hash-checked external adapter is provided separately.
+
+The [repository/release guide](docs/release.md) lists all supplied material and
+the remaining author-controlled public input-deposition steps.
 
 Developer setup, packaging checks and workspace submodule use are described in
 [the development guide](docs/development.md).
