@@ -114,15 +114,17 @@ RDSC-specific utility gates fail. There is no claim of uniform superiority,
 physical displacement accuracy, population specificity or clinical validation.
 The compact check and manufactured tests do not change these limits.
 
-Source and selected closed numerical references are present here. Large model
-and display-only bundles are prepared separately and are not stored in Git.
-Their public asset URL/DOI and the screening article identifier are not yet
-issued. The companion benchmark article is available as
-[arXiv:2610.35621v1](https://arxiv.org/abs/2610.35621v1). The public benchmark and its separate reproduction resources are
+Source and selected closed numerical references are present here. The separate
+[public reproduction inputs](https://huggingface.co/datasets/icirauqui/sfm-nonrigidity-screening-reproduction/tree/0621f69360f78f5379afffb872532648d1e6e85a) are dataset version 0.1.0, revision
+`0621f69360f78f5379afffb872532648d1e6e85a`. They supply selected primary models/points and display-only assets;
+see [download and replay instructions](docs/reproduction.md). The data deposit
+has no DOI assigned here; its fixed revision identifies the published files.
+The companion benchmark article is [arXiv:2610.35621v1](https://arxiv.org/abs/2610.35621v1).
+The benchmark and separate reproduction resources are
 [10.57967/hf/10850](https://doi.org/10.57967/hf/10850) and
-[10.57967/hf/10851](https://doi.org/10.57967/hf/10851); these do not identify this
-implementation's future deposit. Historic E16/J08 raw imagery is unavailable;
-retained point/model replay is not end-to-end image reconstruction.
+[10.57967/hf/10851](https://doi.org/10.57967/hf/10851); these identify different
+resources. Historic E16/J08 raw imagery is unavailable; selected model replay
+is not end-to-end image reconstruction or replay of every historical experiment.
 
 ## License and citation
 
@@ -133,11 +135,11 @@ retain their source-data license and attribution. Upstream LOG source is not
 redistributed: a hash-checked external adapter is provided separately.
 
 The [repository/release guide](docs/release.md) lists all supplied material and
-the remaining author-controlled public input-deposition steps.
+the exact public input version and validation/submission boundaries.
 
 Developer setup, packaging checks and workspace submodule use are described in
 [the development guide](docs/development.md).
 
-The source repository is public on GitHub. Separate input-asset deposition,
-a DOI, external review,
-new experiments, native MeshMeld integration and journal acceptance are not implied.
+The source repository and selected input deposit are public. A deposit DOI,
+external review, new experiments, native MeshMeld integration and journal
+acceptance are not implied.

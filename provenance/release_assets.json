@@ -1,19 +1,26 @@
 {
+  "dataset_repository": "icirauqui/sfm-nonrigidity-screening-reproduction",
+  "dataset_revision": "0621f69360f78f5379afffb872532648d1e6e85a",
+  "dataset_tag": "v0.1.0",
+  "dataset_version": "0.1.0",
   "doi": null,
   "files": [
     {
       "bytes": 534256414,
       "entries": 650,
       "file": "screening-primary-inputs-v0.1.0.zip",
-      "sha256": "b46e24c2b691b77a235c231c4396ff1770f6aaea5b0c1e0d55638752c9b3e93b"
+      "sha256": "b46e24c2b691b77a235c231c4396ff1770f6aaea5b0c1e0d55638752c9b3e93b",
+      "url": "https://huggingface.co/datasets/icirauqui/sfm-nonrigidity-screening-reproduction/resolve/0621f69360f78f5379afffb872532648d1e6e85a/screening-primary-inputs-v0.1.0.zip"
     },
     {
       "bytes": 42813382,
       "entries": 29,
       "file": "screening-artwork-inputs-v0.1.0.zip",
-      "sha256": "007a395dbfbeede30bb2d1bcf0ae18bd86f5170142dc20c83fe917ce93583539"
+      "sha256": "007a395dbfbeede30bb2d1bcf0ae18bd86f5170142dc20c83fe917ce93583539",
+      "url": "https://huggingface.co/datasets/icirauqui/sfm-nonrigidity-screening-reproduction/resolve/0621f69360f78f5379afffb872532648d1e6e85a/screening-artwork-inputs-v0.1.0.zip"
     }
   ],
-  "public_asset_url": null,
-  "status": "PREPARED_LOCALLY_NOT_UPLOADED"
+  "license": "CC-BY-4.0",
+  "public_asset_url": "https://huggingface.co/datasets/icirauqui/sfm-nonrigidity-screening-reproduction/tree/0621f69360f78f5379afffb872532648d1e6e85a",
+  "status": "PUBLIC_VERSIONED_DEPOSIT"
 }

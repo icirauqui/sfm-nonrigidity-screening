@@ -33,3 +33,8 @@ reproduction resource DOI 10.57967/hf/10851 identifies a different resource.
 
 No third-party raw clinical imagery, patient information, privileged truth input
 for detector inference or reserved recovery-family payload is included.
+
+The selected primary/artwork data deposit is separately licensed CC BY 4.0,
+including its author-derived data/contract/result records; its explicit data
+license does not extend to source software or optional dependencies. See the
+fixed dataset identifiers and license link in `provenance/release_assets.json`.

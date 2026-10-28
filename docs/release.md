@@ -21,47 +21,27 @@ scientific scope, failed utility gates and abstentions.
 - Source for full primary model-to-score and display-only figure replay.
 - A versioned dependency/environment record and explicit backend limitations.
 
-The selected primary and artwork bundles are intentionally separate from Git.
-Their names, sizes and hashes are in [the asset index](../release_assets/README.md)
-and `provenance/release_assets.json`. They are prepared and verified locally but
-are not yet publicly downloadable. Until they are deposited, a public reader
-cannot perform the full model/artwork replay from a Git clone alone. The compact
-check remains available. Earlier private capsules, raw historical imagery and
-unlicensed LOG source are not substitutes for these selected bundles.
+The selected primary and artwork bundles are separate from source Git and public
+at [the fixed input deposit](https://huggingface.co/datasets/icirauqui/sfm-nonrigidity-screening-reproduction/tree/0621f69360f78f5379afffb872532648d1e6e85a), version 0.1.0, revision `0621f69360f78f5379afffb872532648d1e6e85a`.
+Names, sizes, hashes and fixed download URLs are in
+[the asset index](../release_assets/README.md) and `provenance/release_assets.json`.
+The deposit has CC BY 4.0 licensing, attribution and extraction/replay instructions.
+No DOI is claimed. The benchmark dataset/support DOIs identify other resources.
+Earlier private capsules, raw historical imagery and unlicensed LOG source are
+not substitutes for this selected deposit.
 
-## Author-controlled public release steps
+## Release and validation boundaries
 
-1. Source visibility is public (verified 27 October 2026). Preserve the
-   exact source commit and identify the intended software version. Do not overwrite historical numerical reference records.
-2. Deposit both selected input bundles in a suitable versioned resource, keeping
-   model inference and display-only inputs separate. Include checksums, original
-   source-data licensing/attribution and extraction instructions.
-3. Replace the null public asset URL/DOI fields in
-   `provenance/release_assets.json` with verified identifiers. Document the exact
-   version/URLs and update reproduction instructions. Do not reuse the benchmark
-   dataset/support DOIs as identifiers for this diagnostic implementation.
-4. Verify anonymous access, download hashes/CRC, installation, compact checks,
-   full primary replay and artwork from the deposited bytes in a fresh checkout.
-   Keep every numerical discrepancy and distinguish source/decision equivalence
-   from strict historic score parity. Qualify any changed runtime separately.
-5. Update the article's code/data statement and software citation to identify
-   the actual deposit/version. Add the screening article identifier only when
-   genuine; the companion benchmark preprint is a separate citation.
-6. Update the workspace gitlink and dependency lock after any source commit,
-   then verify its import and fresh-submodule initialization. Preserve ordinary
-   commit history; no force push or replacement of published artifacts is needed.
+Source visibility, input publication, numerical replay and scientific validity
+are distinct checks. Preserve exact source/data revisions and all numerical
+refusals. Verify anonymous downloads, hashes/CRC, installation, compact checks,
+full selected-input replay and artwork without replacing expected values or
+loosening tolerances. See [numerics.md](numerics.md) for known cross-backend
+strict-score differences despite decision agreement.
 
-Public source access and submodule registration do not complete the remaining
-input-deposition and external-reproduction steps. Publication visibility and a DOI are not necessary
-to run the core implementation, but public input access is needed for complete
-external reproduction of the paper's primary figures and scores.
-
-## Explicit remaining boundaries
-
-Historic E16/J08 raw imagery is unavailable. Some cross-backend JAPD/edge scores
-exceed the retained strict tolerance, even when decisions match. The LOG adapter
-requires independently obtained, explicitly hash-qualified external code;
-upstream source redistribution permission is unresolved. M3C2 needs its optional
-native dependency/runtime. These constraints remain documented in the methods,
-reproduction guide and third-party notice; none prevents using the three core
-diagnostics within their declared input contracts.
+The input version supplies the stated primary model-to-score and display replay;
+it does not supply every historical cohort, private upstream comparator,
+original timing runtime or deleted RGB. Data version 0.1.0 is independent of
+software version 0.1.2. A future DOI or article identifier must be genuine before
+being added. Source/data publication does not submit the article to a journal,
+guarantee acceptance or establish clinical validity.

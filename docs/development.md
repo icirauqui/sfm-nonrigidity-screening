@@ -76,7 +76,7 @@ recorded scientific revision. Keep input ZIPs, virtual environments, build outpu
 and caches out of Git. Do not upload the private historic capsule as a substitute
 for the selected, separately attributed reproduction inputs.
 
-Public source access is verified. Input-bundle deposition, a DOI and journal
-submission are separate publication steps; a GitHub source push does not perform
-them. See [architecture.md](architecture.md) for canonical module locations and
+Public source and versioned selected-input access are recorded separately.
+A future DOI and journal submission remain separate publication steps; a source
+push does not perform them. See [architecture.md](architecture.md) for canonical module locations and
 backward-compatible imports.

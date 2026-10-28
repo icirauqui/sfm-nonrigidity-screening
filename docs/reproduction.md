@@ -20,23 +20,44 @@ text models or reconstruct images.
 
 ## Full primary model-to-score replay
 
-Large text-model/point inputs are separate from Git. The author-prepared bundle
-has `INPUT_MANIFEST.json` and `CONTRACTS.json`, with neutral relative paths and
-hashes for all selected inputs. A public asset URL/DOI remains to be issued.
-From the author's preserved review capsule, the bundle is prepared by:
+Large model/point and display-only inputs are public at
+[https://huggingface.co/datasets/icirauqui/sfm-nonrigidity-screening-reproduction](https://huggingface.co/datasets/icirauqui/sfm-nonrigidity-screening-reproduction/tree/0621f69360f78f5379afffb872532648d1e6e85a), dataset version 0.1.0 / tag `v0.1.0`, fixed revision
+`0621f69360f78f5379afffb872532648d1e6e85a`. The source checkout does not contain the ZIPs.
+Install the official Hugging Face CLI (`hf`) and use a new destination:
 
 ```sh
-python tools/prepare_reproduction_inputs.py --capsule /path/to/extracted_capsule --output /new/primary_inputs
+hf download icirauqui/sfm-nonrigidity-screening-reproduction \
+  --type dataset --revision 0621f69360f78f5379afffb872532648d1e6e85a \
+  --local-dir outputs/input_download
+cd outputs/input_download
+shasum -a 256 -c SHA256SUMS
+python -m zipfile -t screening-primary-inputs-v0.1.0.zip
+python -m zipfile -t screening-artwork-inputs-v0.1.0.zip
+python -m zipfile -e screening-primary-inputs-v0.1.0.zip primary
+python -m zipfile -e screening-artwork-inputs-v0.1.0.zip artwork
+cd ../..
 ```
 
-Only explicit primary models/point arrays are copied: 32 requested global models,
-108 local windows, independent/inherited fitted points, no RGB or evaluator truth.
-Once the bundle is obtained or prepared:
+On Linux, use `sha256sum -c SHA256SUMS` if `shasum` is absent. Fixed file URLs,
+byte sizes and hashes are also in `provenance/release_assets.json`. Data are
+CC BY 4.0 with the deposit's explicit attribution; software stays GPL-3.0-or-later.
+No DOI is assigned to this deposit here. Its version and commit identify it.
+
+The primary directory has `INPUT_MANIFEST.json` and `CONTRACTS.json`, with neutral
+relative paths/hashes. It contains only selected primary models/point arrays:
+32 requested global models, 108 local windows, independent/inherited fitted
+points, no RGB or evaluator truth. Keep the artwork directory separate.
+From the source root, run:
 
 ```sh
 OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 MKL_NUM_THREADS=1 \
-python tools/replay_models.py --inputs /path/to/primary_inputs --mode all --workers 4 --comparison decisions --output outputs/full_replay
+python tools/replay_models.py --inputs outputs/input_download/primary \
+  --mode all --workers 4 --comparison decisions --output outputs/full_replay
 ```
+
+The historical producer `tools/prepare_reproduction_inputs.py` can prepare the
+same selected primary format from the author's preserved review capsule; a public
+reader uses the deposit above and does not need that private capsule.
 
 Workers load only their explicit model/point allowlist and run the standalone
 installed package. Expected outputs are read in the parent only after inference
@@ -78,14 +99,14 @@ Use the qualified container for strict replay and requalify any other backend.
 
 ## Figures and tables
 
-Install plotting extras and obtain the separate display-only input bundle. It
+Install plotting extras and use the separate display-only bundle downloaded above. It
 contains only the selected geometry/RGB, closed model-display arrays and closed
 result records needed for the nine figures/graphical abstract. These are not
 inference inputs. All files are hash-bound:
 
 ```sh
 MPLCONFIGDIR=outputs/mpl-cache XDG_CACHE_HOME=outputs/cache \
-python tools/render_artwork.py --inputs /path/to/artwork_inputs --output outputs/artwork
+python tools/render_artwork.py --inputs outputs/input_download/artwork --output outputs/artwork
 ```
 
 The renderer regenerates complete PDF/PNG figures with the retained common-scale

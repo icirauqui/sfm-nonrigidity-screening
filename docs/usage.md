@@ -127,4 +127,5 @@ behavior before treating another image as a strict reproduction environment.
 - Missing plotting/M3C2 modules: install the matching optional extra and qualify
   its runtime. Closed comparator results do not imply an installed comparator.
 - Missing full inputs: the Git checkout includes compact references; see
-  [the asset index](../release_assets/README.md). Public bundle URLs are pending.
+  [the public asset index](../release_assets/README.md); fixed download commands
+  and dataset revision are in [reproduction.md](reproduction.md).

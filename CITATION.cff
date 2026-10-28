@@ -19,3 +19,12 @@ references:
     journal: arXiv
     url: "https://arxiv.org/abs/2610.35621v1"
     notes: "Companion benchmark article; distinct from the screening article and software."
+  - type: data
+    title: "SfM Nonrigidity Screening — Reproduction Inputs"
+    authors:
+      - family-names: Cirauqui-Viloria
+        given-names: Íñigo
+    version: 0.1.0
+    year: 2026
+    url: "https://huggingface.co/datasets/icirauqui/sfm-nonrigidity-screening-reproduction/tree/0621f69360f78f5379afffb872532648d1e6e85a"
+    notes: "Selected data inputs; distinct from software and benchmark resources."
