@@ -755,7 +755,7 @@ def basc_router():
 
 
 def graphical_abstract():
-    fig = plt.figure(figsize=(5.2, 2.25))
+    fig = plt.figure(figsize=(5.5, 2.2))
     g = npz(PREP / "f01__fem_global.npz")
     p = chart(g, g["points"])
     lo, hi = np.quantile(p, [0.01, 0.99], axis=0)
@@ -817,16 +817,16 @@ def graphical_abstract():
     )
     save(fig, "graphical_abstract")
     RECORDS["graphical_abstract"] = dict(
-        canvas_inches=[5.2, 2.25],
+        canvas_inches=[5.5, 2.2],
         minimum_preview_width=1328,
         detail_bounds=np.stack([lo, hi]).tolist(),
         not_a_full_extent_reconstruction_panel=True,
     )
     # Dedicated journal raster export at 450dpi, exceeding minimum1328px width.
     with pymupdf.open(OUT / "graphical_abstract.pdf") as doc:
-        doc[0].get_pixmap(matrix=pymupdf.Matrix(450 / 72, 450 / 72), alpha=False).save(
-            OUT / "graphical_abstract.png"
-        )
+        pix = doc[0].get_pixmap(matrix=pymupdf.Matrix(450 / 72, 450 / 72), alpha=False)
+        pix.set_dpi(450, 450)
+        pix.save(OUT / "graphical_abstract.png")
 
 
 def main():
