@@ -118,7 +118,7 @@ Source and selected closed numerical references are present here. The separate
 [public reproduction inputs](https://huggingface.co/datasets/icirauqui/sfm-nonrigidity-screening-reproduction/tree/0621f69360f78f5379afffb872532648d1e6e85a) are dataset version 0.1.0, revision
 `0621f69360f78f5379afffb872532648d1e6e85a`. They supply selected primary models/points and display-only assets;
 see [download and replay instructions](docs/reproduction.md). The data deposit
-has no DOI assigned here; its fixed revision identifies the published files.
+is identified by DOI [10.57967/hf/11298](https://doi.org/10.57967/hf/11298) and its fixed revision.
 The companion benchmark article is [arXiv:2610.35621v1](https://arxiv.org/abs/2610.35621v1).
 The benchmark and separate reproduction resources are
 [10.57967/hf/10850](https://doi.org/10.57967/hf/10850) and
@@ -140,6 +140,5 @@ the exact public input version and validation/submission boundaries.
 Developer setup, packaging checks and workspace submodule use are described in
 [the development guide](docs/development.md).
 
-The source repository and selected input deposit are public. A deposit DOI,
-external review, new experiments, native MeshMeld integration and journal
+The source repository and selected input deposit are public. External review, new experiments, native MeshMeld integration and journal
 acceptance are not implied.

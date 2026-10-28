@@ -26,7 +26,7 @@ at [the fixed input deposit](https://huggingface.co/datasets/icirauqui/sfm-nonri
 Names, sizes, hashes and fixed download URLs are in
 [the asset index](../release_assets/README.md) and `provenance/release_assets.json`.
 The deposit has CC BY 4.0 licensing, attribution and extraction/replay instructions.
-No DOI is claimed. The benchmark dataset/support DOIs identify other resources.
+DOI [10.57967/hf/11298](https://doi.org/10.57967/hf/11298) identifies this selected deposit. The benchmark dataset/support DOIs identify other resources.
 Earlier private capsules, raw historical imagery and unlicensed LOG source are
 not substitutes for this selected deposit.
 
@@ -42,6 +42,5 @@ strict-score differences despite decision agreement.
 The input version supplies the stated primary model-to-score and display replay;
 it does not supply every historical cohort, private upstream comparator,
 original timing runtime or deleted RGB. Data version 0.1.0 is independent of
-software version 0.1.2. A future DOI or article identifier must be genuine before
-being added. Source/data publication does not submit the article to a journal,
+software version 0.1.2. The verified selected-input DOI is 10.57967/hf/11298; add an article identifier only when genuine. Source/data publication does not submit the article to a journal,
 guarantee acceptance or establish clinical validity.

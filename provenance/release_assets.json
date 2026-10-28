@@ -3,7 +3,10 @@
   "dataset_revision": "0621f69360f78f5379afffb872532648d1e6e85a",
   "dataset_tag": "v0.1.0",
   "dataset_version": "0.1.0",
-  "doi": null,
+  "doi": "10.57967/hf/11298",
+  "doi_datacite_version": "0621f69",
+  "doi_url": "https://doi.org/10.57967/hf/11298",
+  "doi_verified_date": "2026-10-28",
   "files": [
     {
       "bytes": 534256414,

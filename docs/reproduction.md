@@ -41,7 +41,7 @@ cd ../..
 On Linux, use `sha256sum -c SHA256SUMS` if `shasum` is absent. Fixed file URLs,
 byte sizes and hashes are also in `provenance/release_assets.json`. Data are
 CC BY 4.0 with the deposit's explicit attribution; software stays GPL-3.0-or-later.
-No DOI is assigned to this deposit here. Its version and commit identify it.
+DOI [10.57967/hf/11298](https://doi.org/10.57967/hf/11298) identifies the deposited version; the full revision above pins the exact files.
 
 The primary directory has `INPUT_MANIFEST.json` and `CONTRACTS.json`, with neutral
 relative paths/hashes. It contains only selected primary models/point arrays:

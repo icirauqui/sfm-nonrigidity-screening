@@ -4,7 +4,7 @@ The two ZIPs are public in [SfM Nonrigidity Screening — Reproduction Inputs](h
 dataset version 0.1.0 / tag `v0.1.0`, exact revision `0621f69360f78f5379afffb872532648d1e6e85a`.
 They remain outside the source Git repository. Sizes, SHA-256 and fixed download
 URLs are in `../provenance/release_assets.json`; `SHA256SUMS` is unchanged.
-No DOI is claimed for this deposit. The dataset revision is the citation target.
+Citation DOI: [10.57967/hf/11298](https://doi.org/10.57967/hf/11298). The fixed dataset revision continues to identify the exact input files.
 
 - `screening-primary-inputs-v0.1.0.zip`: selected model/point inputs and frozen
   calibration/window requests; no RGB or evaluator truth.
